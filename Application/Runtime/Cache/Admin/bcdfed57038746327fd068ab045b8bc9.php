@@ -37,10 +37,10 @@
         <div class="col-sm-12">
             <div class="ibox">
                 <div class="ibox-content">
-                    <h2>奖励记录</h2>
+                    <h2>企业支出</h2>
 
                     <!--<div class="input-group">-->
-                    <!--<form type="get" enctype="multipart/form-data" action="/indexadm.php/finance/reward_record?&amp;page=1">-->
+                    <!--<form type="get" enctype="multipart/form-data" action="/indexadm.php/finance/merchant_pay?&amp;page=2">-->
                     <!--<input type="text" placeholder="请输入手机号" name="content" id="content" class="input form-control">-->
                     <!--<div class="input-group-btn">-->
                     <!--<bottom style="height: 2.8rem;"  id="search" type="submit" class="btn btn btn-primary"><i class="fa fa-search"></i> 搜索</bottom>-->
@@ -48,7 +48,7 @@
                     <!--</form>-->
                     <!--</div>-->
                     <div class="col-sm-12" style="margin-bottom: 1rem">
-                        <form role="form" action="/indexadm.php/finance/reward_record?&amp;page=1" method="get">
+                        <form role="form" action="/indexadm.php/finance/merchant_pay?&amp;page=2" method="get">
                             <div class="form-group">
                                 <!--<label>商品code</label>-->
                                 <input type="text" id="content" placeholder="" name="content" class="form-control">
@@ -66,44 +66,44 @@
                             <th class="">头像</th>
                             <th>昵称</th>
                             <th>会员ID</th>
-                            <!--<th>当前积分</th>-->
-                            <th>收益积分</th>
-                            <th>详情</th>
+                            <th>管理员</th>
+                            <th>金额</th>
+                            <th class="">
+                                <div class="btn-group">
+                                    <div data-toggle="dropdown" >类型<button type="button" style="background-color: #f9f9f9;border: none;"><span class="caret"></span></button></div>
+                                    <ul class="dropdown-menu dropdown-menu-right">
+                                        <li><a href="/indexadm.php/Finance/exchange_check">全部</a></li>
+                                        <li><a href="/indexadm.php/Finance/merchant_pay/type/1">订单退款</a></li>
+                                        <li><a href="/indexadm.php/Finance/merchant_pay/type/2">企业打款</a></li>
+                                        <li><a href="/indexadm.php/Finance/merchant_pay/type/3">用户提现</a></li>
+                                    </ul>
+                                </div>
+                            </th>
                             <th>创建时间</th>
-                            <!--<th class="client-status">操作</th>-->
-
                         </tr>
-                        <?php if(is_array($user)): foreach($user as $key=>$list): ?><tr>
+                        <?php if(is_array($list)): foreach($list as $key=>$list): ?><tr>
                                 <td class="client-avatar"><img alt="image" src="<?php echo ($list["headimg"]); ?>"></td>
                                 <td><?php echo ($list["nickname"]); ?></td>
                                 <td><?php echo ($list["memberid"]); ?></td>
-                                <!--<td>-->
-                                    <!--<?php echo ($list["uscore"]); ?>-->
-                                <!--</td>-->
                                 <td>
-                                    <?php echo ($list["score"]); ?>
+                                    <?php echo ($list["name"]); ?>
                                 </td>
                                 <td>
-                                    <?php echo ($list["remark"]); ?>
+                                    <?php echo ($list["money"]); ?>
+                                </td>
+                                <td>
+                                    <?php switch($list["type"]): case "1": ?>订单退款<?php break;?>
+                                        <?php case "2": ?>企业打款<?php break;?>
+                                        <?php case "3": ?>用户提现<?php break; endswitch;?>
                                 </td>
                                 <td class=""><?php echo (date('Y-m-d H:i:s',$list["ctime"])); ?></td>
-                                <!--<td class="client-status">-->
-                                    <!--<a class="btn btn-success btn-rounded modify" aid="<?php echo ($list["id"]); ?>" rid="<?php echo ($list["rid"]); ?>" href="/indexadm.php/User/user_detail/openid/<?php echo ($list["openid"]); ?>" >详情</a>-->
-                                    <!--<a class="btn btn-danger btn-rounded review" pid="<?php echo ($list["openid"]); ?>" href="javascript:void(0);" data-toggle="modal" data-target="#myModal8" >重审</a>-->
-                                    <!--<a class="btn btn-info btn-rounded modify" aid="<?php echo ($list["id"]); ?>" rid="<?php echo ($list["rid"]); ?>" href="/indexadm.php/User/user_resume/vid/<?php echo ($list["vid"]); ?>" >简历</a>-->
-                                    <!--<?php if($list['flag'] == '0'): ?>-->
-                                        <!--<a class="btn btn-danger btn-rounded" onclick="lock_user('<?php echo ($list["id"]); ?>','1')" href="javascript:void(0);">禁用</a>-->
-                                        <!--<?php else: ?>-->
-                                        <!--<a class="btn btn-warning btn-rounded" onclick="lock_user('<?php echo ($list["id"]); ?>','0')" href="javascript:void(0);">解禁</a>-->
-                                    <!--<?php endif; ?>-->
-
-
-                                <!--</td>-->
                             </tr><?php endforeach; endif; ?>
                         </tbody>
                     </table>
                     <ul class="pagination">
-                        <?php if($tol > 10): echo ($fpage); endif; ?>
+
+                        <?php echo ($fpage); ?> 总支出：<?php echo ($pay); ?>  
+
                     </ul>
                 </div>
             </div>

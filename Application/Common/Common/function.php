@@ -51,13 +51,14 @@ function addlog($aid, $content)
  * @param $type 1是收入。2是兑换，3是兑换失败退还
  * @param $remark 备注
  */
-function add_score_log($openid, $score, $type, $remark)
+function add_score_log($openid, $score, $type, $remark,$order_no='')
 {
     $info = M('score_record', '', 'NBYH');
     $data['openid'] = $openid;
     $data['score'] = $score;
     $data['type'] = $type;
     $data['remark'] = $remark;
+    $data['order_no']=$order_no;
     $data['ctime'] = time();
     $info->add($data);
 }

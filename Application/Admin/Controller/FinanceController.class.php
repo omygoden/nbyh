@@ -155,34 +155,69 @@ class FinanceController extends CommenController
             } else {
                 $this->ajaxReturn(['code' => '1002', 'result' => '打款失败']);
             }
-//            $openid = I('openid');
-//            $money = I('money');
-//            if ($money <= 0) {
-//                $this->ajaxReturn(['code' => '1002', 'result' => '金额不得小于等于0']);
-//                return false;
-//            }
-//            $datas['orderid'] = 'PM' . time() . rand(1000, 9999);
-//            $datas['bankaccount'] = I('bankaccount');
-//            $datas['truename'] = I('truename');
-//            $datas['ctime'] = time();
-//            $datas['money'] = I('money');
-//            $datas['uid'] = $openid;
-//            $datas['quit'] = rand(1, 9);
-//            $datas['wid'] = I('eid');
-//            $datas['type'] = '2';
-//            $datas['bankclass'] = I('bankclass');
-//            $res = $withdraw->create($datas, '1');
-//            if (!$res) {
-//                $this->ajaxReturn(['code' => '1002', 'result' => $withdraw->getError()]);
-//                return false;
-//            }
-//            $res = $withdraw->add();
-//            if ($res) {
-//                $this->ajaxReturn(['code' => '1001', 'result' => '打款成功']);
-//            } else {
-//                $this->ajaxReturn(['code' => '1002', 'result' => '打款失败']);
-//            }
         }
+    }
+
+    /**
+     * 商家收益
+     */
+    public function merchant_income(){
+        $info = M('orders', '', 'NBYH');
+        if (!empty(I('content'))) {
+            $content = I('content');
+            $where['_string'] = "u.memberid='$content' or u.nickname='$content' or o.order_no='$content'";
+        }
+//        if (!empty(I('get.status') || I('get.status') == '0')) {
+//            $where['u.is_cert'] = array('eq', I('get.status'));
+//        }
+        $where['o.status']=array('gt','0');
+        $tol = $info->JOIN("o LEFT JOIN score_record sr ON o.order_no=sr.order_no")->JOIN("LEFT JOIN user u ON o.openid=u.openid")->WHERE($where)->GROUP("o.order_no")->SELECT();
+        $tol=count($tol);
+        $row = '10';
+        $page = new PageController($tol, $row);
+        $fpage = $page->fpage();
+        $list = $info->JOIN("o LEFT JOIN score_record sr ON o.order_no=sr.order_no")->JOIN("LEFT JOIN user u ON o.openid=u.openid")->WHERE($where)->GROUP("o.order_no")->FIELD("o.*,sum(sr.score) as sr_score,u.nickname,u.headimg,u.memberid")->LIMIT($page->listfirst, $page->listRows)->ORDER('o.id desc')->SELECT();
+        $lists = $info->JOIN("o LEFT JOIN score_record sr ON o.order_no=sr.order_no")->JOIN("LEFT JOIN user u ON o.openid=u.openid")->WHERE($where)->GROUP("o.order_no")->FIELD("o.money,sum(sr.score) as sr_score")->SELECT();
+        $income=array_sum(array_column($lists,'money'));
+        $pay=array_sum(array_column($lists,'sr_score'));
+        $money['income']=!empty($income-$pay)?($income-$pay):0;
+        $money['pay']=!empty($pay)?$pay:0;
+        $money['all']=!empty($income)?$income:0;
+
+        $this->assign(array(
+            'list' => $list,
+            'fpage' => $fpage,
+            'tol' => $tol,
+            'money'=>$money
+        ));
+        $this->display();
+    }
+
+    /**
+     * 商家支出
+     */
+    public function merchant_pay(){
+        $info = M('money_record', '', 'NBYH');
+        if (!empty(I('content'))) {
+            $content = I('content');
+            $where['_string'] = "u.memberid='$content' or u.nickname='$content'";
+        }
+        if(!empty(I('type'))){
+            $where['type']=array('eq',I('type'));
+        }
+        $tol = $info->JOIN("mr JOIN user u ON mr.openid=u.openid")->JOIN("JOIN admin a ON mr.aid=a.id")->WHERE($where)->COUNT();
+        $row = '10';
+        $page = new PageController($tol, $row);
+        $fpage = $page->fpage();
+        $list = $info->JOIN("mr JOIN user u ON mr.openid=u.openid")->JOIN("JOIN admin a ON mr.aid=a.id")->WHERE($where)->FIELD("mr.*,u.nickname,u.headimg,u.memberid,a.name")->LIMIT($page->listfirst, $page->listRows)->ORDER('mr.id desc')->SELECT();
+        $pay=$info->JOIN("mr JOIN user u ON mr.openid=u.openid")->JOIN("JOIN admin a ON mr.aid=a.id")->WHERE($where)->SUM('money');
+        $this->assign(array(
+            'list' => $list,
+            'fpage' => $fpage,
+            'tol' => $tol,
+            'pay'=>$pay
+        ));
+        $this->display();
     }
 
 }

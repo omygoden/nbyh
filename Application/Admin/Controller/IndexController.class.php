@@ -49,10 +49,15 @@ class IndexController extends CommenController {
         $msg['today_apply_distribution']=$distribution->WHERE($where)->COUNT();
         $msg['all_distribution']=$user->WHERE(array('is_distribution'=>'1'))->COUNT();
 
-        //今日认证人数和总通过人数
+//        //今日认证人数和总通过人数
+//
+//        $msg['today_user_cert']=$cert->WHERE($where)->COUNT();
+//        $msg['all_user_cert']=$user->WHERE(array('is_cert'=>'1'))->COUNT();
 
-        $msg['today_user_cert']=$cert->WHERE($where)->COUNT();
-        $msg['all_user_cert']=$user->WHERE(array('is_cert'=>'1'))->COUNT();
+        //总收益和总支出
+        $msg['all_income']=M('orders', '', 'NBYH')->WHERE(['status'=>['gt','0']])->SUM('money');
+        $msg['all_pay']=M('money_record', '', 'NBYH')->SUM('money');
+        $msg['real_pay']=M('money_record', '', 'NBYH')->WHERE(['type'=>['neq','2']])->SUM('money');
 
         $this->assign(array(
             'msg'=>$msg

@@ -51,6 +51,7 @@
                                     <span class="text-muted text-xs">今日商品成交金额</span>
                                     <div class="h1 text-fff font-thin h1"><?php if($msg['all_order_money'] != ''): echo ($msg["all_order_money"]); else: ?>0<?php endif; ?></div>
                                     <span class="text-muted text-xs">商品成交总金额</span>
+
                                 </div>
                             </div>
                             <div class="col-xs-6">
@@ -63,10 +64,10 @@
                             </div>
                             <div class="col-xs-6">
                                 <div class="panel padder-v item">
-                                    <div class="font-thin h1"><?php echo ($msg["today_user_cert"]); ?></div>
-                                    <span class="text-muted text-xs">今日认证人数</span>
-                                    <div class="font-thin h1"><?php echo ($msg["all_user_cert"]); ?></div>
-                                    <span class="text-muted text-xs">已认证人数</span>
+                                    <div class="font-thin h1"><?php echo $msg['all_income']-$msg['real_pay'];?></div>
+                                    <span class="text-muted text-xs">总收益</span>
+                                    <div class="font-thin h1"><?php echo ($msg["all_pay"]); ?></div>
+                                    <span class="text-muted text-xs">总支出</span>
                                 </div>
                             </div>
                         </div>
