@@ -1,0 +1,87 @@
+html, body {
+    background: #f5f5f5;
+    height: 100vh;
+}
+ul {
+    background: #ffffff;
+    margin-top: 10px;
+    box-shadow: 0 1px 1px #eeeeee;
+}
+ul li {
+    line-height: 50px;
+    height: 50px;
+    padding: 0 3vw 0 50px;
+}
+ul li:nth-child(1) {
+    border-bottom: 1px solid #d9d9d9;
+    background: url('../image/register_01.png') no-repeat 10px center;
+    background-size: 30px;
+}
+ul li:nth-child(2) {
+    background: url('../image/register_02.png') no-repeat 10px center;
+    background-size: 30px;
+}
+input {
+    outline: none;
+}
+li:nth-child(1) input {
+    height: 50px;
+    width: 100%;
+    line-height: 50px;
+}
+li:nth-child(2) {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+li:nth-child(2) input {
+    height: 50px;
+    display: inline-block;
+    line-height: 50px;
+    -webkit-flex: 1;
+    -moz-flex: 1;
+    flex: 1;
+}
+#sendVerify {
+    width: 5em;
+    text-align: center;
+}
+.button {
+    text-align: center;
+    margin-top: 50px;
+}
+button {
+    display: inline-block;
+    width: 80%;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 4px;
+    background: #F8CC2E;
+}
+button:disabled {
+    background: #cdcdcd;
+}
+footer {
+    position: absolute;
+    bottom: 8vh;
+    width: 80vw;
+    text-align: center;
+    color: #999999;
+    padding: 0 10vw;
+}
+footer div {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+footer p {
+    padding-bottom: 5vh;
+}
+footer div span {
+    -webkit-flex: 1;
+    -moz-flex: 1;
+    flex: 1;
+}
+footer img {
+    width: 14vw;
+}

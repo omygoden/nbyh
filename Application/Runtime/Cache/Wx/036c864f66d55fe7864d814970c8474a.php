@@ -1,0 +1,165 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport"
+		  content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+	<meta name="format-detection" content="telephone=no"/>
+	<meta name="format-detection" content="email=no"/>
+	<link rel="stylesheet" type="text/css" href="/Public/shangcheng/css/style.css"/>
+	<script src="/Public/wx/apla/js/jquery-1.min.js"></script>
+	<title>申请提现</title>
+	<link href="/Public/wx/apla/css/common.css" rel="stylesheet"/>
+	<link href="/Public/wx/apla/css/order.css" rel="stylesheet"/>
+	<link href="/Public/wx/apla/css/spokesman.css" rel="stylesheet" />
+	<script src="/Public/wx/js/layer/layer.js"></script>
+</head>
+<style type="text/css">
+	.top-header {
+		padding-top: 4rem;
+	}
+	.change-address div{
+		margin:3px 0
+	}
+	.change-address span{
+		width:5rem
+	}
+	.myrecord{
+		margin: 0;
+		/*padding: 0 3%;*/
+		list-style-type: none;
+		color: #808080;
+	}
+	.myrecord td {
+		width:20%
+	}
+	.dleft{
+		width:50%;float:left
+	}
+	.dright{
+		width:50%;float:right
+	}
+	.dd{
+		margin:5px 0;
+	}
+
+	.top-header{
+		border-bottom:0;
+	}
+	.all{
+		font-size:1rem;
+		padding-bottom:2rem;
+		border-bottom:1px solid #ccc;
+	}
+</style>
+<body class="top-header">
+<header class="header flex">
+	<i class="back" onclick="javascript:history.go(-1)"></i>
+	<h1 class="flex-auto">申请提现</h1>
+	<i></i>
+</header>
+<div class="contaniner fixed-conta">
+	<div class="men-content">
+		<!--<div style="background-color:#FC0; color:#F00; padding:5px; text-align:center">-->
+
+			<!--每次最低提现*元，每月最多提现*次-->
+		<!--</div>-->
+		<div style="width: 100%;border-bottom: 2px solid #ccc" class="change-address">
+			<div style="line-height: 30px;">
+				<span >当前积分：<?php echo ($score); ?></span>
+			</div>
+			<div style="line-height: 30px;">
+				<span >可提现金额：<?php echo ($score); ?>元</span>
+			</div>
+			<div style="line-height: 30px;">
+				<span>收款人：</span><input type="text" value="" id='name' style="border-radius: 5px;margin-left:2rem" />
+			</div>
+			<div style="line-height: 30px;">
+				<span>手机号：</span><input type="text" value="" id='mobile' style="border-radius: 5px;margin-left:2rem" />
+			</div>
+			<div style="line-height: 30px;">
+				<span>所属银行：</span><input type="text" value="" id='bank' style="border-radius: 5px;margin-left:1rem" />
+			</div>
+			<div style="line-height: 30px;">
+				<span>银行账号：</span><input type="text" value="" id='account' style="border-radius: 5px;margin-left:1rem" />
+			</div>
+			<div style="line-height: 30px;">
+				<span>提现金额：</span><input type="number" value="" id='money' style="border-radius: 5px;margin-left:1rem;font-size: 1.2rem;line-height: 20px;flex: 1;padding: 5px;" />
+			</div>
+			<div style="text-align: center;">
+				<input type="button"  style="background: #f05c72;;width:80%;height: 40px;" id="sub" score="<?php echo ($score); ?>" value="提 交"/>
+			</div>
+			<div style="line-height: 30px;">
+				<span >已成功提现：<?php echo ($success); ?>元</span>
+			</div>
+		</div>
+
+
+	</div>
+	<?php if(is_array($record)): foreach($record as $key=>$record): ?><div class="all">
+		<div class="dd first"><div >提现日期:<?php echo (date('Y-m-d H:i:s',$record["ctime"])); ?></div></div>
+		<div class="dd ccc"><div class='dleft'>收款人：<?php echo ($record["name"]); ?></div><div class='dright'>手机号：<?php echo ($record["mobile"]); ?></div></div>
+		<div class="dd ccc"><div class='dleft'>开户行：
+			<?php echo ($record["bank"]); ?>
+		</div><div class='dright'>银行账号：<?php echo ($record["account"]); ?></div></div>
+		<div class="dd ccc"><div class='dleft'>兑换积分：<?php echo ($record["score"]); ?></div><div class='dright'>兑换状态：
+			<?php switch($record["status"]): case "0": ?>审核中<?php break;?>
+			<?php case "1": ?>审核通过,待打款<?php break;?>
+			<?php case "2": ?>已驳回<?php break;?>
+			<?php case "3": ?>打款成功<?php break; endswitch;?>
+		</div></div>
+		<div class="dd ccc"><div>审核意见：<?php if($record['check_opinion'] != ''): echo ($record["check_opinion"]); else: ?>暂无<?php endif; ?></div></div>
+	</div><?php endforeach; endif; ?>
+</div>
+</body>
+<script type="text/javascript">
+//	var uid = '{$Think.get.uid}';
+//	function save(){
+//		var urls = './index.php?g=App&m=Post&a=apply_cash&uid='+uid;
+//		var money = parseFloat($('#money').val());
+//		if(money<1){
+//			alert('提现金额不能少于1元');
+//			return;
+//		}
+//		$.post(urls,{money:money},function(data){
+//
+//			if(data=='1001'){
+//				alert('提现成功');
+//				window.location.reload();
+//			}else{
+//				alert(data);
+//			}
+//		})
+//	}
+	$('#sub').on('click',function(){
+		var score=parseInt($(this).attr('score'));
+		var name=$('#name').val();
+		var mobile=$('#mobile').val();
+		var bank=$('#bank').val();
+		var account=$('#account').val();
+		var money=$('#money').val();
+		var reg = /^(13[0-9]|14[5|7]|15[0|1|2|3|5|6|7|8|9]|17[0|1|2|3|5|6|7|8|9]|18[0|1|2|3|5|6|7|8|9])\d{8}$/;
+		var check=mobile.match(reg);
+		if(check==null){
+			layer.msg('手机号格式有误');
+			return false;
+		}
+		if(name=='' || mobile=='' || bank=='' || account==''){
+			layer.msg('请将信息补全');
+			return false;
+		}
+		if(money>score || money<=0){
+			layer.msg('提现金额不能大于现有金额或者小于等于0');
+			return false;
+		}
+		$.post('/Myinfo/sub_apply_exchange',{name:name,mobile:mobile,bank:bank,account:account,score:money},function(data){
+			console.log(data);
+			if(data.code=='1001'){
+				window.location.reload();
+			}else{
+				layer.msg(data.result);
+			}
+		});
+	});
+
+</script>
+</html>

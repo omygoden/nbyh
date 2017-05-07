@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="format-detection" content="email=no"/>
+    <title>申请分销商</title>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/wx/apla/css/common.css">
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/wx/apla/css/add_address.css">
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/wx/apla/css/dialog.css">
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/wx/apla/css/mobile-select-area.css">
+    <script src="__PUBLIC__/wx/apla/js/jquery-1.min.js"></script>
+    <script src="__PUBLIC__/wx/apla/js/dialog.js"></script>
+    <script src="__PUBLIC__/wx/apla/js/mobile-select-area.js"></script>
+</head>
+<body>
+<header class="flex header">
+    <i class="back" onclick="javascript:history.go(-1);"></i>
+    <h1 class="flex-auto">申请分销商</h1>
+    <i></i>
+</header>
+
+<div class="main" style="margin-top:5rem">
+    <ul>
+        <li class="flex list">
+            <div class="left">姓名：</div>
+            <div class="right flex-auto"><input style="line-height: 2rem" value="<{$msg.name}>" type="text" id="name"></div>
+        </li>
+        <li class="flex list">
+            <div class="left">手机号码：</div>
+            <div class="right flex-auto"><input style="line-height: 2rem" type="tel" id="mobile" value="<{$msg.mobile}>"></div>
+        </li>
+        <li class="flex list">
+            <div class="left">备注：</div>
+            <div class="right flex-auto">
+                <textarea id="remark"><{$msg.remark}></textarea>
+            </div>
+        </li>
+    </ul>
+</div>
+<div class="button" onclick="sub()">保存</div>
+<script>
+//    var selectArea = new MobileSelectArea();
+//    selectArea.init({trigger: '#txt_area', value: $('#hd_area').val(), data: '__PUBLIC__/wx/apla/js/data.json'});
+//    $('.ui-dialog-mask').click(function () {
+//        console.log(1)
+//    })
+    function sub(){
+        var to_url='__MODULE__/Myinfo/myinfo';
+        var name=$('#name').val();
+        var mobile=$('#mobile').val();
+        var remark=$('#remark').val();
+        var reg = /^(13[0-9]|14[5|7]|15[0|1|2|3|5|6|7|8|9]|17[0|1|2|3|5|6|7|8|9]|18[0|1|2|3|5|6|7|8|9])\d{8}$/;
+        var r = mobile.match(reg);
+        if (r == null) {
+            alert('请输入正确的手机号！');
+            return false;
+        }
+        if(name=='' || mobile==''){
+            alert('姓名或者手机号不能为空');
+            return false;
+        }
+        $.post('__MODULE__/Myinfo/sub_apply_distribution',{name:name,mobile:mobile,remark:remark},function(data){
+            if(data.code=='1001'){
+                window.location.href=to_url;
+            }else{
+                alert(data.result);
+            }
+        });
+    }
+</script>
+</body>
+</html>

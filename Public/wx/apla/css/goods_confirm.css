@@ -1,0 +1,97 @@
+html{
+    background: #f7f7fa;
+}
+.address{
+    padding: 0.8rem 3rem 0.8rem 4rem;
+    line-height: 2.6rem;
+    position: relative;
+    display: block;
+}
+.address:before{
+    background: url("../img/icon.png") no-repeat 0 0;
+    background-size: 15rem;
+    position: absolute;
+    left: 0.5rem;
+    top: 1.9rem;
+}
+.address:after{
+    background: url("../img/icon.png") no-repeat -6rem -6rem;
+    background-size: 15rem;
+    position: absolute;
+    right: 0;
+    top: 1.9rem;
+}
+.address .address-detail{
+    line-height: 2.6rem;
+    height: 2.6rem;
+}
+/*-------------------------------------*/
+.goods .shop-name{
+    padding: 0 3% 0 4rem;
+    line-height: 3rem;
+    border-bottom: 1px solid #d9d9d9;
+}
+.goods .shop-name:before{
+    width: 2.5rem;
+    height: 2.5rem;
+    background: url("../img/icon.png ") no-repeat -2.5rem -7.5rem;
+    background-size: 12.5rem;
+    margin-left: -3rem;
+    margin-right: 0.5rem;
+    vertical-align: middle;
+}
+.goods-detail{
+    padding: 1rem 3%;
+    border-bottom: 1px solid #d9d9d9;
+}
+.goods-detail .left{
+    width:7.5rem;
+    height: 7.5rem;
+    overflow: hidden;
+    border: 1px solid #f9f9f9;
+    margin-right: 1rem;
+}
+.goods-detail .left img{
+    width: 100%;
+}
+.goods-detail .right p,.goods-detail .right h3{
+    margin: 0;
+    line-height: 2.5rem;
+}
+.price{
+    color:#c8b48f ;
+}
+.goods .wrapper{
+    padding: 1rem 0 0;
+}
+.goods .wrapper .count{
+    line-height: 5rem;
+}
+.goods .wrapper textarea{
+    background: #e7e7e5;
+    color: #333;
+    display: block;
+    border: 0;
+    resize:none;
+    width: 94%;
+    padding: 0 3%;
+    line-height: 3rem;
+    height: 3rem;
+    outline: 0;
+}
+.other-box {
+    line-height: 3rem;
+    padding: 0.5rem 0 0.5rem 3%;
+}
+.other-box a{
+    display: block;
+}
+.footer{
+    width: 94%;
+    text-align: right;
+    padding: 0.5rem 3%;
+    line-height:2.6rem;
+}
+.footer .btn-black{
+    margin-left: 2rem;
+}

@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport"
+          content="maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, width=device-width, initial-scale=1.0"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="format-detection" content="email=no"/>
+    <title>我的优惠券</title>
+    <link rel="stylesheet" type="text/css" href="../../css/common.css">
+    <link href="../../css/spokesman.css" rel="stylesheet"/>
+    <style>
+        #box_2, #box_3 {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+<header class="head">
+    <div class="nav">
+        <span class="nav_list active" data-id="box_1">未使用</span>
+        <span class="nav_list" data-id="box_2">已使用</span>
+        <span class="nav_list" data-id="box_3">已过期</span>
+    </div>
+</header>
+<div class="coupon-content" id="box_1">
+    <ul class="coupon-list">
+        <li>
+            <div>
+                <p class="font-1">您有一张代金券</p>
+                <p class="font-2"><span>10</span>元</p>
+                <p class="font-3">有效期至2017-11-3</p>
+            </div>
+            <img src="../../imgs/youhuiquan_03.png"/>
+        </li>
+    </ul>
+</div>
+<div class="coupon-content" id="box_2">
+    <ul class="coupon-list">
+        <li>
+            <div>
+                <p class="font-1">您有一张代金券</p>
+                <p class="font-2"><span>10</span>元</p>
+                <p class="font-3">有效期至2017-11-3</p>
+            </div>
+            <img src="../../imgs/youhuiquan_03.png"/>
+        </li>
+        <li>
+            <div>
+                <p class="font-1">您有一张代金券</p>
+                <p class="font-2"><span>10</span>元</p>
+                <p class="font-3">有效期至2017-11-3</p>
+            </div>
+            <img src="../../imgs/youhuiquan_03.png"/>
+        </li>
+    </ul>
+</div>
+<div class="coupon-content" id="box_3">
+    <ul class="coupon-list">
+        <li>
+            <div>
+                <p class="font-1">您有一张代金券</p>
+                <p class="font-2"><span>10</span>元</p>
+                <p class="font-3">有效期至2017-11-3</p>
+            </div>
+            <img src="../../imgs/youhuiquan_03.png"/>
+        </li>
+        <li>
+            <div>
+                <p class="font-1">您有一张代金券</p>
+                <p class="font-2"><span>10</span>元</p>
+                <p class="font-3">有效期至2017-11-3</p>
+            </div>
+            <img src="../../imgs/youhuiquan_03.png"/>
+        </li>
+    </ul>
+</div>
+<script src="../../js/zepto.js"></script>
+<script>
+    $('.nav .nav_list').on('click', function () {
+        $('.nav .active').removeClass('active');
+        $(this).addClass('active');
+        var parent = $(this).parent();
+        var id=this.dataset.id;
+        $('.coupon-content').css('display','none');
+        $('#'+id).css('display','block');
+    })
+</script>
+</body>
+</html>

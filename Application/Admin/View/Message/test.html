@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> - 联系人</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <link rel="shortcut icon" href="__PUBLIC__/admin/favicon.ico">
+    <link href="__PUBLIC__/admin/css/bootstrap.min.css?v=3.3.6" rel="stylesheet">
+    <link href="__PUBLIC__/admin/css/font-awesome.min.css?v=4.4.0" rel="stylesheet">
+    <link href="__PUBLIC__/admin/css/animate.css" rel="stylesheet">
+    <link href="__PUBLIC__/admin/css/style.css?v=4.1.0" rel="stylesheet">
+</head>
+<include file="Admin@Index:cache" />
+<body class="gray-bg contacts">
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="ibox">
+                <div class="ibox-content">
+                    <h2>管理员操作日志</h2>
+
+                    <div class="col-sm-12" style="margin-bottom: 1rem">
+                        <form role="form" action="__SELF__" method="get">
+                            <div class="form-group">
+                                <!--<label>商品code</label>-->
+                                <input type="text" id="content" placeholder="" name="content" class="form-control">
+                            </div>
+                            <div>
+                                <button class="btn btn-sm btn-primary pull-right m-t-n-xs" type="submit" id="search"><strong>搜索</strong>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                    <br>
+                    <div id="container">
+
+                    </div>
+                    <ul class="pagination">
+
+                    <li>
+                    <a href="#">Prev</a>
+                    </li>
+                    <li>
+                    <a href="#" class="test">1</a>
+                    </li>
+                    <li>
+                    <a href="#" class="test">2</a>
+                    </li>
+                    <li>
+                    <a href="#" class="test">3</a>
+                    </li>
+                    <li>
+                    <a href="#" class="test">4</a>
+                    </li>
+                    <li>
+                    <a href="#" class="test">5</a>
+                    </li>
+                    <li>
+                    <a href="#" class="test">Next</a>
+                    </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- 全局js -->
+<script src="__PUBLIC__/admin/js/jquery.min.js?v=2.1.4"></script>
+<script src="__PUBLIC__/admin/js/jquery.pjax-1.8.2.min"></script>
+<script src="__PUBLIC__/admin/js/bootstrap.min.js?v=3.3.6"></script>
+
+<script src="__PUBLIC__/admin/js/plugins/layer/layer.min.js"></script>
+<!-- 自定义js -->
+<script src="__PUBLIC__/admin/js/content.js?v=1.0.0"></script>
+<script src=”BASEURL_TO_PJAX_PLUGIN”></script>
+
+<script>
+    $(document).ready(function () {
+        $('.contact-box').each(function () {
+            animationHover(this, 'pulse');
+        });
+    });
+    to_url='__MODULE__/Message/test1';
+    $('.test').click(function(){
+        var num=$(this).html();
+        alert(num);
+        $.pjax({
+            url:to_url,
+            container:'#container'
+        });
+    });
+
+</script>
+
+
+</body>
+
+</html>

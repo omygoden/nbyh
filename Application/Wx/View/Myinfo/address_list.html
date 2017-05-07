@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="format-detection" content="email=no"/>
+    <title>收货地址管理</title>
+    <link href="__PUBLIC__/wx/css/common.css" rel="stylesheet"/>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/wx/apla/css/common.css">
+    <link href="__PUBLIC__/wx/css/address.css" rel="stylesheet"/>
+    <script src="__PUBLIC__/wx/apla/js/jquery-1.min.js"></script>
+</head>
+<!--<header class="top-header fixed-header" style="position:fixed;padding-top:0">-->
+    <!--<a class="icona" href="javascript:history.go(-1)">-->
+        <!--<img src="__PUBLIC__/wx/shangcheng/images/left.png"/>-->
+    <!--</a>-->
+    <!--<h3>收货地址列表</h3>-->
+
+    <!--<a class="text-top">-->
+    <!--</a>-->
+<!--</header>-->
+<header class="flex header">
+    <i class="back" onclick="javascript:history.go(-1);"></i>
+    <h1 class="flex-auto">收货地址列表</h1>
+    <i></i>
+</header>
+<body>
+<header>
+    <!--<a class="icona" href="javascript:history.back('-1');"  style="float:left" >-->
+        <!--<img src="__PUBLIC__/wx/shangcheng/images/left.png"/>-->
+    <!--</a>-->
+    <?php if(empty($_GET['to'])){ ?>
+    <a href="__MODULE__/Myinfo/add_address" style="margin-top:5rem" class="head" >
+        <div></div>
+        <span>新增收货地址</span>
+    </a>
+    <?php }else{ ?>
+    <a href="__MODULE__/Myinfo/add_address?ourl=<?php echo $_GET['ourl'];?>" style="margin-top:5rem" class="head" >
+        <div></div>
+        <span>新增收货地址</span>
+    </a>
+    <?php } ?>
+</header><!--head-->
+
+<div class="addr-content">
+    <ul class="addrs">
+        <foreach name="address" item="address">
+        <li class="addr-li">
+            <div class="addr-phone">
+                <span>收货人：<{$address.name}></span>
+                <span><{$address.mobile}></span>
+            </div><!--addr-phone-->
+            <div class="addr-details"><{$address.area}>-<{$address.detail}></div>
+            <!--addr-details-->
+            <div class="add-set">
+                <if condition="$address['type'] eq '1'">
+                <a href="javascript:void(0);" onclick="set_default_address('<{$address.id}>')">
+                    <div class="set-1">
+                        <div class="addr-default"></div>
+                        <span>设为默认</span>
+                    </div><!--set-1-->
+                </a>
+                    <else/>
+                    <a href="javascript:void(0);" >
+                        <div class="set-1">
+                            <div class="addr-default"></div>
+                            <span>当前默认地址</span>
+                        </div><!--set-1-->
+                    </a>
+                </if>
+                <div class="addr-modify">
+                    <a href="__MODULE__/Myinfo/add_address?aid=<{$address.id}>&ourl=<?php echo $_GET['ourl'];?>">
+                        <div class="set-1">
+                            <div class="addr-edit"></div>
+                            <span>编辑</span>
+                        </div><!--set-1-->
+                    </a>
+                    <a href="javascript:void(0);" onclick="del_address('<{$address.id}>')">
+                        <div class="set-1">
+                            <div class="addr-delete"></div>
+                            <span>删除</span>
+                        </div><!--set-1-->
+                    </a>
+                </div>  <!--addr-modify-->
+
+            </div><!--addr-set-->
+        </li><!--addr-li-->
+        </foreach>
+
+    </ul><!--addrs-->
+</div><!--addr-content-->
+<script>
+    function set_default_address(aid){
+        var to='<{$Think.get.to}>';
+        $.post('__MODULE__/Myinfo/set_default_address',{aid:aid},function(data){
+            if(data.code=='1001'){
+                if(to=='1'){
+                    window.location.replace(document.referrer);
+                }else{
+                    window.location.reload();
+                }
+            }else{
+                alert(data.result);
+            }
+        });
+    }
+    function del_address(aid){
+        var sure=confirm('是否确定删除');
+        if(!sure){
+            return false;
+        }
+        $.post('__MODULE__/Myinfo/del_address',{aid:aid},function(data){
+            if(data.code=='1001'){
+                window.location.reload();
+            }else{
+                alert(data.result);
+            }
+        });
+    }
+
+</script>
+</body>
+</html>

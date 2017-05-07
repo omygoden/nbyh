@@ -1,0 +1,71 @@
+﻿body {
+    background-color:#f0eff5;
+}
+.head {
+    display: block;
+   background-color:white;
+   padding:3%;
+   margin:3%;
+}
+.head div{
+    background: url('../imgs/icon.png') -3rem -2.9rem no-repeat;
+    background-size:13rem;
+    width:2rem;
+    height:2rem;
+    display:inline-block;
+    vertical-align:middle;
+}
+
+.addr-li{
+    background-color:white;
+    padding:3%;
+    margin:0 3% 3% 3%;
+    
+}
+.addr-li div{
+    display: -ms-flexbox;	  /* TWEENER - IE 10 */
+	display: -webkit-flex;	 /* NEW - Chrome */
+	display: flex;			 /* NEW, Spec - Opera 12.1, Firefox 20+ */
+
+    -webkit-justify-content: space-between;
+	-moz-justify-content: space-between;
+	-ms-justify-content: space-between;
+	-o-justify-content: space-between;
+	justify-content: space-between;
+
+    -webkit-flex-direction: row;
+	-moz-flex-direction: row;
+	-ms-flex-direction: row;
+	-o-flex-direction: row;
+	flex-direction: row;
+    
+    -webkit-align-items: center;
+	-moz-align-items: center;
+	-ms-align-items: center;
+	-o-align-items: center;
+	align-items: center;
+}
+.addr-li .addr-details{
+    padding:5% 0;
+    height:4rem; 
+    display:block; 
+    line-height:1.4rem;   
+}
+.addr-default{
+    background: url('../imgs/icon.png') -0.5rem -2.8rem no-repeat;
+    background-size:13rem;
+    width:2rem;
+    height:2rem;   
+}
+.addr-edit{
+    background: url('../imgs/icon.png') -8.4rem -0.3rem no-repeat;
+    background-size:13rem;
+    width:2rem;
+    height:2rem;   
+}
+.addr-delete{
+    background: url('../imgs/icon.png') -9.9rem -0.3rem no-repeat;
+    background-size:13rem;
+    width:3.3rem;
+    height:2rem;   
+}

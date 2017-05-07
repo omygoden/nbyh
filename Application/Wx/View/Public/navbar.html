@@ -1,0 +1,31 @@
+<div class="navbar navbar-default" id="navbar">
+	<div class="navbar-container" id="navbar-container">
+		<div class="navbar-header pull-left">
+			<a href="#" class="navbar-brand">
+				<small>
+                <php>
+                $info  = M('Info')->where("id=1")->find();
+                
+                echo $info['name'] .'分销商城';
+                </php>
+					
+				</small>
+			</a><!-- /.brand -->
+		</div><!-- /.navbar-header -->
+
+		<div class="navbar-header pull-right" role="navigation">
+			<ul class="nav ace-nav">
+			 
+				<li class="light-white">
+					<a href="{:U('Admin/Login/logout')}" >
+						<span class="user-info">
+							安全退出
+						</span>
+ 
+					</a>
+ 
+				</li>
+			</ul><!-- /.ace-nav -->
+		</div><!-- /.navbar-header -->
+	</div><!-- /.container -->
+</div>

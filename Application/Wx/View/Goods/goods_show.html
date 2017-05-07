@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="format-detection" content="email=no"/>
+    <title>商品列表</title>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/wx/apla/css/common.css">
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/wx/apla/css/shopping.css">
+</head>
+<body>
+<!--同选购商品-->
+<div class="content" >
+    <div class="flex-item" id="list">
+        <foreach name="list" item="list">
+        <a class="shop-box item-2" href="__MODULE__/Goods/goods_detail/gid/<{$list.id}>">
+            <div class="top">
+                <img src="<{$list.title_img}>">
+            </div>
+            <div class="bottom">
+                <p class="title">
+                    <{$list.name}>
+                </p>
+                <p class="other">
+                    <span class="left">&yen;<{$list.price}></span>
+                    <span class="right shop" data-state="noShop"></span>
+                </p>
+            </div>
+        </a>
+        </foreach>
+    </div>
+</div>
+<include file="Public:footer" />
+<script src="__PUBLIC__/wx/apla/js/zepto.js"></script>
+<script src="__PUBLIC__/wx/apla/js/jquery.min.js"></script>
+<script src="__PUBLIC__/admin/js/plugins/layer/layer.min.js"></script>
+<script src="__PUBLIC__/admin/js/plugins/layer/laydate/laydate.js"></script>
+<script>
+    jQuery(document).ready(function(){
+        status=1;//防止重复触发
+        p='1';
+//        document_height>=window_height+scroll  滚动条在底部时相等
+        $(document).scroll( function() {
+            var document_height=parseInt($(document).height());
+            var window_height=parseInt($(window).height());
+            var scroll=parseInt($(document).scrollTop());
+            if(scroll>document_height-window_height-50){
+                if(status==1){
+                    status=2;
+                    load_more();
+                }
+            }
+        });
+
+        function load_more(){
+            $.post('__MODULE__/Goods/load_more',{p:p},function(data){
+//                console.log(data);
+                if(data.code=='1001'){
+                    var html='';
+                    $(data.result).each(function(k,v){
+                        html+='<a class="shop-box item-2" href="__MODULE__/Goods/goods_detail/gid/'+ v.id+'">';
+                        html+='<div class="top">';
+                        html+='<img src="'+ v.title_img+'">';
+                        html+='</div>';
+                        html+='<div class="bottom">';
+                        html+='<p class="title">'+ v.name+'</p>';
+                        html+='<p class="other">';
+                        html+='<span class="left">&yen;'+ v.price+'</span>';
+                        html+='<span class="right shop" data-state="noShop"></span>';
+                        html+='</p>';
+                        html+='</div>';
+                        html+='</a>';
+                    });
+
+                    $('#list').append(html);
+                    p=p*1+1;
+                    status=1;
+                }else{
+                    layer.msg(data.result,{time:2000})
+                }
+            });
+        }
+
+
+
+    });
+</script>
+</body>
+</html>

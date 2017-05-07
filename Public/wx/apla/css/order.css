@@ -1,0 +1,130 @@
+﻿body {
+    background-color:#f0eff5;
+}
+img{
+    display:inline-block;
+    width:100%;
+}
+.head{
+    background-color:white;
+    text-align:center;
+    vertical-align:middle;
+    display:flex;
+    justify-content:space-around;
+    font-size:1rem;
+    position: fixed;
+    width: 100%;
+}
+.top-header{
+    border-bottom: 1px solid #d9d9d9;
+}
+header+header{
+    top: 4rem;
+
+}
+.top-header{
+    padding-top:7rem;
+}
+.head >a{
+    padding:3% 0;
+}
+.active{
+    border-bottom:2px solid #c8b48f;
+}
+.ord-li{
+    margin-top:3%;
+    background-color:white;
+}
+.ord-num{
+    display:flex;
+    justify-content:space-between;
+    border-bottom:1px solid #d9d9d9;
+    padding:3%;
+}
+.ord-detial{
+    display:flex;
+    justify-content:space-between;
+    padding:3%;
+    font-size:1.2rem;
+    border-bottom:1px solid #d9d9d9;
+}
+.ord-detial div img{
+    border:1px solid #d9d9d9;
+    width:32%;
+    vertical-align:top;
+    margin-right:3%;
+}
+.ord-detial div p:nth-child(2){
+    padding-top:40px;
+    text-align:right;
+}
+.red-color{
+    color:#c8b48f;
+}
+
+.ord-sum{
+    display:flex;
+    justify-content:space-between;
+    padding:3%;
+    border-bottom:1px solid #d9d9d9;
+}
+.ord-sum div{
+    flex:1;
+}
+.ord-sum > div span:first-child{
+    padding-right:10%;
+}
+
+.ord-action{
+    text-align:right;
+    padding:3%;
+}
+button{
+    padding:5px 5px;
+    background-color:white;
+    width:25%;
+    border-radius:3px;
+}
+.btn-gray{
+    border:1px solid #999999;
+}
+.btn-red{
+    border:1px solid #c8b48f;
+}
+
+.goods .shop-name{
+    padding: 0 3% 0 4rem;
+    line-height: 3rem;
+    border-bottom: 1px solid #d9d9d9;
+}
+.goods .shop-name:before{
+    width: 2.5rem;
+    height: 2.5rem;
+    background: url("../imgs/icon.png ") no-repeat -2.5rem -7.5rem;
+    background-size: 12.5rem;
+    margin-left: -3rem;
+    margin-right: 0.5rem;
+    vertical-align: middle;
+}
+.goods-detail{
+    padding: 1rem 3%;
+    border-bottom: 1px solid #d9d9d9;
+}
+.goods-detail .left{
+    width:7.5rem;
+    height: 7.5rem;
+    overflow: hidden;
+    border: 1px solid #f9f9f9;
+    margin-right: 1rem;
+}
+.goods-detail .left img{
+    width: 100%;
+}
+.goods-detail .right p,.goods-detail .right h3{
+    margin: 0;
+    line-height: 2.5rem;
+}
+
+.price{
+    color:#c8b48f ;
+}

@@ -1,0 +1,150 @@
+html{
+    background: #f7f7fa;
+}
+h2{
+    margin: 0;
+    font-size: 1.2rem;
+}
+.wrapper{
+    display: block;
+}
+
+.user-header{
+    padding: 3rem 0 2rem;
+    background:#fff url("../img/bg_geren.png") no-repeat right top;
+    background-size: 36%;
+    overflow: hidden;
+}
+.user-header .left{
+    float: left;
+    width: 40%;
+    box-sizing: border-box;
+}
+.user-header .left .user-img{
+    width: 6rem;
+    height: 6rem;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.user-header .right{
+    width: 60%;
+    float: right;
+    line-height: 2rem;
+    position: relative;
+}
+.user-header .right:after{
+    position: absolute;
+    right: 0;
+    top: 50%;
+    margin-top: -1.5rem;
+}
+/*订单*/
+.order .title{
+    line-height: 3rem;
+    border-bottom: 1px solid #d9d9d9;
+    padding: 0 0 0 3%;
+}
+.order .order-box-wrapper{
+    padding: 0.5rem 0 1rem;
+}
+.order .order-box-wrapper .flex-auto{
+    text-align: center;
+}
+.order  .flex-auto a{
+    display: block;
+}
+.order  .flex-auto a:before{
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 3rem;
+    height: 3rem;
+}
+.order .order-box-1:before{
+    background: url("../img/user.png") no-repeat 0 0;
+    background-size: 12rem;
+}
+.order .order-box-2:before{
+    background: url("../img/user.png") no-repeat -3rem 0;
+    background-size: 12rem;
+}
+.order .order-box-3:before{
+    background: url("../img/user.png") no-repeat -6rem 0;
+    background-size: 12rem;
+}
+.order .order-box-4:before{
+    background: url("../img/user.png") no-repeat -9rem 0;
+    background-size: 12rem;
+}
+/*其他*/
+.other{
+    text-align: center;
+    padding: 1rem 0;
+    line-height: 1.6rem;
+}
+.other .flex-auto:first-child{
+    border-right: 1px solid #d9d9d9;
+}
+.other strong{
+    color: #c8b48f;
+}
+/*列表*/
+.detail-list {
+    padding-left: 5rem;
+    line-height: 4rem;
+}
+.detail-list .num{
+    color: #c8b48f ;
+}
+.detail-list .detail-list-li{
+    border-bottom: 1px solid #d9d9d9;
+    position: relative;
+}
+.detail-list .detail-list-li a{
+    display: block;
+}
+.detail-list .detail-list-li a.flex{
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+.detail-list .detail-list-li:last-child{
+    border: 0;
+}
+.detail-list .icon-more:after{
+    margin-top: 0.5rem;
+}
+.detail-list .detail-list-li:before{
+    content: "";
+    display: block;
+    width: 3rem;
+    height: 3rem;
+    margin: 0.5rem auto auto -4rem;
+    position: absolute;
+}
+.detail-list  .detail-list-1:before{
+    background: url("../img/user.png") no-repeat 0 -3rem;
+    background-size: 12rem;
+}
+.detail-list  .detail-list-2:before{
+    background: url("../img/user.png") no-repeat -3rem -3rem;
+    background-size: 12rem;
+}
+.detail-list  .detail-list-3:before{
+    background: url("../img/user.png") no-repeat -6rem -3rem;
+    background-size: 12rem;
+}
+.detail-list  .detail-list-4:before{
+    background: url("../img/user.png") no-repeat -9rem -3rem;
+    background-size: 12rem;
+}
+.detail-list  .detail-list-5:before{
+    background: url("../img/user.png") no-repeat 0 -6rem;
+    background-size: 12rem;
+}
+.detail-list  .detail-list-6:before{
+    background: url("../img/user.png") no-repeat -3rem -6rem;
+    background-size: 12rem;
+}

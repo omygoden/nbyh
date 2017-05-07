@@ -1,0 +1,2653 @@
+[ 2017-04-26T00:00:13+08:00 ] 183.136.255.67 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000438s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T00:00:15+08:00 ] 183.136.255.67 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T00:00:17+08:00 ] 183.136.255.67 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000372s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T00:00:26+08:00 ] 183.136.255.67 /undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+ERR: 无法加载控制器:Undefined
+
+[ 2017-04-26T00:00:28+08:00 ] 183.136.255.67 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000368s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T00:00:31+08:00 ] 183.136.255.67 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T00:00:42+08:00 ] 183.136.255.67 /undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+ERR: 无法加载控制器:Undefined
+
+[ 2017-04-26T00:00:42+08:00 ] 183.136.255.67 /undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+ERR: 无法加载控制器:Undefined
+
+[ 2017-04-26T00:00:46+08:00 ] 183.136.255.67 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T00:00:50+08:00 ] 183.136.255.67 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000362s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T00:01:00+08:00 ] 183.136.255.67 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T00:01:01+08:00 ] 183.136.255.67 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000362s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T00:01:55+08:00 ] 183.136.255.67 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T00:01:56+08:00 ] 183.136.255.67 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T00:09:14+08:00 ] 140.207.54.74 /Wxset/response?signature=b5532adba6c2f423475f812dfa0ef47662ad6156&timestamp=1493136553&nonce=398558630&openid=o8_jh0mq9uZ63rD5J5RFkjcFYXaA&encrypt_type=aes&msg_signature=8a7ac55ee2436031e5706251e7b5d68fcef0786f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000536s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000674s ]
+
+[ 2017-04-26T00:09:14+08:00 ] 183.136.255.67 /Shop/shop
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000356s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:09:15+08:00 ] 183.136.255.67 /Shop/shop?code=041QnALd1y34Pt0W94Jd1i3JLd1QnALS&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000354s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005642s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005700s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-04-26T00:09:16+08:00 ] 183.136.255.67 /Goods/goods_detail/gid/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:09:17+08:00 ] 183.136.255.67 /Goods/goods_detail/gid/12?code=0512Z9Kp1bN8Fo0kH6Kp1aJcKp12Z9KE&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/2154474b5a8a5a56c718e05ae32f881d.php 第 82 行.
+NOTIC: [2] Illegal string offset 'num' /alidata/www/nuoya/Application/Runtime/Cache/Wx/2154474b5a8a5a56c718e05ae32f881d.php 第 82 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/2154474b5a8a5a56c718e05ae32f881d.php 第 82 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/2154474b5a8a5a56c718e05ae32f881d.php 第 88 行.
+NOTIC: [2] Illegal string offset 'price' /alidata/www/nuoya/Application/Runtime/Cache/Wx/2154474b5a8a5a56c718e05ae32f881d.php 第 88 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/2154474b5a8a5a56c718e05ae32f881d.php 第 88 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006576s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006619s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000200s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000401s ]
+
+[ 2017-04-26T00:09:22+08:00 ] 183.136.255.67 /Goods/goods_detail/gid/19
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000354s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:09:22+08:00 ] 183.136.255.67 /Goods/goods_detail/gid/19?code=021a3Fd804JWIK1Ogsd80NXCd80a3Fd2&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006546s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006598s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000166s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000248s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000714s ]
+
+[ 2017-04-26T00:09:26+08:00 ] 101.226.33.219 /Goods/goods_detail/gid/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:09:31+08:00 ] 101.226.33.200 /Goods/goods_detail/gid/19
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:09:45+08:00 ] 183.136.255.67 /Shop/shop
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:09:45+08:00 ] 140.207.54.74 /Wxset/response?signature=f4b8e48ec8d9e27204d47c4a2be4319255f5a6a6&timestamp=1493136584&nonce=1236830126&openid=o8_jh0mq9uZ63rD5J5RFkjcFYXaA&encrypt_type=aes&msg_signature=23d9e83cda00a3c28b952523d92a74e8f41fdbf7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000652s ]
+
+[ 2017-04-26T00:09:45+08:00 ] 183.136.255.67 /Shop/shop?code=0017svq302YcrG1XNHs30JMpq307svqO&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000397s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007017s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007137s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000222s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-04-26T00:09:51+08:00 ] 183.136.255.67 /Shop/load_more
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-04-26T00:09:52+08:00 ] 183.136.255.67 /Shop/load_more
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-04-26T00:10:01+08:00 ] 183.136.255.67 /Goods/goods_detail/gid/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:10:02+08:00 ] 183.136.255.67 /Goods/goods_detail/gid/18?code=011lB1AS0h0l8V1H6nAS0lp0AS0lB1AM&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000397s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006958s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007012s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000158s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000369s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000732s ]
+
+[ 2017-04-26T00:10:11+08:00 ] 180.153.214.192 /Goods/goods_detail/gid/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:26:23+08:00 ] 183.136.255.67 /Goods/goods_detail/gid/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:26:24+08:00 ] 183.136.255.67 /Goods/goods_detail/gid/7?code=0014Dt8a27VUcR0bchaa2tf48a24Dt8m&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006440s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006495s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-04-26T00:26:27+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:26:27+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=021Wtfg12hn9501K8Wf12sffg12Wtfga&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005517s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005571s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000199s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-04-26T00:26:29+08:00 ] 183.136.255.67 /Myinfo/address_list?to=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: ourl /alidata/www/nuoya/Application/Runtime/Cache/Wx/5edd2d9f0828bd3edb3c53c1c7006075.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005548s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005585s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000202s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-04-26T00:26:29+08:00 ] 183.136.255.67 /Public/wx/imgs/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2017-04-26T00:26:31+08:00 ] 183.136.255.67 /Myinfo/add_address?ourl=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+NOTIC: [8] Undefined index: name /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 37 行.
+NOTIC: [8] Undefined index: mobile /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 41 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Undefined index: next_area /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 50 行.
+NOTIC: [8] Undefined index: last_area /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 53 行.
+NOTIC: [8] Undefined index: detail /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 62 行.
+NOTIC: [8] Undefined index: to /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 94 行.
+NOTIC: [8] Undefined index: aid /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 96 行.
+NOTIC: [8] Undefined variable: ourl /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 118 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006414s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006480s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000218s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-04-26T00:26:35+08:00 ] 183.136.255.67 /Mypublic/get_next_area
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-04-26T00:26:37+08:00 ] 183.136.255.67 /Mypublic/get_next_area
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+
+[ 2017-04-26T00:26:39+08:00 ] 180.153.214.182 /Myinfo/address_list?to=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/MyinfoController.class.php 第 336 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+NOTIC: [8] Undefined index: ourl /alidata/www/nuoya/Application/Runtime/Cache/Wx/5edd2d9f0828bd3edb3c53c1c7006075.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006041s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006078s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-04-26T00:26:41+08:00 ] 101.226.66.181 /Myinfo/add_address?ourl=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/MyinfoController.class.php 第 355 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Undefined index: name /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 37 行.
+NOTIC: [8] Undefined index: mobile /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 41 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Undefined index: next_area /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 50 行.
+NOTIC: [8] Undefined index: last_area /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 53 行.
+NOTIC: [8] Undefined index: detail /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 62 行.
+NOTIC: [8] Undefined index: to /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 94 行.
+NOTIC: [8] Undefined index: aid /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 96 行.
+NOTIC: [8] Undefined variable: ourl /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 118 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006614s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000234s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-04-26T00:26:51+08:00 ] 183.136.255.67 /Myinfo/sub_add_address
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000361s ]
+NOTIC: [8] Undefined index: validate /alidata/www/nuoya/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /alidata/www/nuoya/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+
+[ 2017-04-26T00:26:51+08:00 ] 183.136.255.67 /Myinfo/address_list?to=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000355s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+NOTIC: [8] Undefined index: ourl /alidata/www/nuoya/Application/Runtime/Cache/Wx/5edd2d9f0828bd3edb3c53c1c7006075.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005941s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005982s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000141s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-04-26T00:26:51+08:00 ] 183.136.255.67 /Public/wx/imgs/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2017-04-26T00:27:16+08:00 ] 183.136.255.67 /Public/wx/imgs/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-04-26T00:27:21+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=021Wtfg12hn9501K8Wf12sffg12Wtfga&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:27:21+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=021Wtfg12hn9501K8Wf12sffg12Wtfga&state=123&code=001WzhMJ03dmW32rhsNJ00mZLJ0WzhMY&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005884s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005941s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000229s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-04-26T00:27:24+08:00 ] 183.136.255.67 /Myinfo/address_list?to=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+NOTIC: [8] Undefined index: ourl /alidata/www/nuoya/Application/Runtime/Cache/Wx/5edd2d9f0828bd3edb3c53c1c7006075.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005694s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005758s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000161s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000222s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-04-26T00:27:24+08:00 ] 183.136.255.67 /Public/wx/imgs/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+
+[ 2017-04-26T00:28:43+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=021Wtfg12hn9501K8Wf12sffg12Wtfga&state=123&code=001WzhMJ03dmW32rhsNJ00mZLJ0WzhMY&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:28:44+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=021Wtfg12hn9501K8Wf12sffg12Wtfga&state=123&code=001WzhMJ03dmW32rhsNJ00mZLJ0WzhMY&state=123&code=041DrMAr1I125p0arNyr1RKWAr1DrMAC&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005628s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005678s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000210s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2017-04-26T00:28:44+08:00 ] 183.136.255.67 /Myinfo/address_list?to=1&ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000351s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005656s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005702s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-04-26T00:28:44+08:00 ] 183.136.255.67 /Public/wx/imgs/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2017-04-26T00:28:48+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=021Wtfg12hn9501K8Wf12sffg12Wtfga&state=123&code=001WzhMJ03dmW32rhsNJ00mZLJ0WzhMY&state=123&code=041DrMAr1I125p0arNyr1RKWAr1DrMAC&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:28:48+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=021Wtfg12hn9501K8Wf12sffg12Wtfga&state=123&code=001WzhMJ03dmW32rhsNJ00mZLJ0WzhMY&state=123&code=041DrMAr1I125p0arNyr1RKWAr1DrMAC&state=123&code=02171OvR1h8Ny71MH9vR10PJvR171Ov9&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-04-26T00:28:50+08:00 ] 183.136.255.67 /Myinfo/address_list?to=1&ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjMmY29kZT0wMjE3MU92UjFoOE55NzFNSDl2UjEwUEp2UjE3MU92OSZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005786s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005850s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000215s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-04-26T00:28:50+08:00 ] 183.136.255.67 /Public/wx/imgs/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-04-26T00:28:54+08:00 ] 180.153.214.197 /Myinfo/address_list?to=1&ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/MyinfoController.class.php 第 336 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005588s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005667s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000203s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-04-26T00:29:08+08:00 ] 183.136.255.67 /Myinfo/add_address?ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjMmY29kZT0wMjE3MU92UjFoOE55NzFNSDl2UjEwUEp2UjE3MU92OSZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000368s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Undefined index: name /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 37 行.
+NOTIC: [8] Undefined index: mobile /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 41 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Undefined index: next_area /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 50 行.
+NOTIC: [8] Undefined index: last_area /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 53 行.
+NOTIC: [8] Undefined index: detail /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 62 行.
+NOTIC: [8] Undefined index: to /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 94 行.
+NOTIC: [8] Undefined index: aid /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 96 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006553s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006599s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000374s ]
+
+[ 2017-04-26T00:29:15+08:00 ] 183.136.255.67 /Myinfo/add_address?ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjMmY29kZT0wMjE3MU92UjFoOE55NzFNSDl2UjEwUEp2UjE3MU92OSZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000370s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+NOTIC: [8] Undefined index: name /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 37 行.
+NOTIC: [8] Undefined index: mobile /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 41 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Undefined index: next_area /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 50 行.
+NOTIC: [8] Undefined index: last_area /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 53 行.
+NOTIC: [8] Undefined index: detail /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 62 行.
+NOTIC: [8] Undefined index: to /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 94 行.
+NOTIC: [8] Undefined index: aid /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 96 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006621s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006674s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000260s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-04-26T00:29:18+08:00 ] 101.226.33.204 /Myinfo/add_address?ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjMmY29kZT0wMjE3MU92UjFoOE55NzFNSDl2UjEwUEp2UjE3MU92OSZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/MyinfoController.class.php 第 355 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+NOTIC: [8] Undefined index: name /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 37 行.
+NOTIC: [8] Undefined index: mobile /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 41 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Uninitialized string offset: 0 /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 47 行.
+NOTIC: [8] Undefined index: next_area /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 50 行.
+NOTIC: [8] Undefined index: last_area /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 53 行.
+NOTIC: [8] Undefined index: detail /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 62 行.
+NOTIC: [8] Undefined index: to /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 94 行.
+NOTIC: [8] Undefined index: aid /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 96 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007154s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007214s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000239s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-04-26T00:29:21+08:00 ] 183.136.255.67 /Mypublic/get_next_area
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000344s ]
+
+[ 2017-04-26T00:29:23+08:00 ] 183.136.255.67 /Mypublic/get_next_area
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-04-26T00:29:36+08:00 ] 183.136.255.67 /Myinfo/sub_add_address
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000363s ]
+NOTIC: [8] Undefined index: validate /alidata/www/nuoya/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /alidata/www/nuoya/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+
+[ 2017-04-26T00:29:37+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=021Wtfg12hn9501K8Wf12sffg12Wtfga&state=123&code=001WzhMJ03dmW32rhsNJ00mZLJ0WzhMY&state=123&code=041DrMAr1I125p0arNyr1RKWAr1DrMAC&state=123&code=02171OvR1h8Ny71MH9vR10PJvR171Ov9&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:29:37+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=021Wtfg12hn9501K8Wf12sffg12Wtfga&state=123&code=001WzhMJ03dmW32rhsNJ00mZLJ0WzhMY&state=123&code=041DrMAr1I125p0arNyr1RKWAr1DrMAC&state=123&code=02171OvR1h8Ny71MH9vR10PJvR171Ov9&state=123&code=001p5qFQ0cpHFa2kbJGQ0fttFQ0p5qFz&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000354s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005303s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000203s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-04-26T00:29:45+08:00 ] 183.136.255.67 /Myinfo/address_list?to=1&ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjMmY29kZT0wMjE3MU92UjFoOE55NzFNSDl2UjEwUEp2UjE3MU92OSZzdGF0ZT0xMjMmY29kZT0wMDFwNXFGUTBjcEhGYTJrYkpHUTBmdHRGUTBwNXFGeiZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000356s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005913s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005976s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000185s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000357s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000642s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000516s ]
+
+[ 2017-04-26T00:29:45+08:00 ] 183.136.255.67 /Public/wx/imgs/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2017-04-26T00:29:48+08:00 ] 183.136.255.67 /Myinfo/set_default_address
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-04-26T00:29:48+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=021Wtfg12hn9501K8Wf12sffg12Wtfga&state=123&code=001WzhMJ03dmW32rhsNJ00mZLJ0WzhMY&state=123&code=041DrMAr1I125p0arNyr1RKWAr1DrMAC&state=123&code=02171OvR1h8Ny71MH9vR10PJvR171Ov9&state=123&code=001p5qFQ0cpHFa2kbJGQ0fttFQ0p5qFz&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:29:50+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=021Wtfg12hn9501K8Wf12sffg12Wtfga&state=123&code=001WzhMJ03dmW32rhsNJ00mZLJ0WzhMY&state=123&code=041DrMAr1I125p0arNyr1RKWAr1DrMAC&state=123&code=02171OvR1h8Ny71MH9vR10PJvR171Ov9&state=123&code=001p5qFQ0cpHFa2kbJGQ0fttFQ0p5qFz&state=123&code=001b8tUa27iEqQ0GkdYa2twvUa2b8tUD&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005857s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005921s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000204s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-04-26T00:29:53+08:00 ] 183.136.255.67 /Myinfo/address_list?to=1&ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjMmY29kZT0wMjE3MU92UjFoOE55NzFNSDl2UjEwUEp2UjE3MU92OSZzdGF0ZT0xMjMmY29kZT0wMDFwNXFGUTBjcEhGYTJrYkpHUTBmdHRGUTBwNXFGeiZzdGF0ZT0xMjMmY29kZT0wMDFiOHRVYTI3aUVxUTBHa2RZYTJ0d3ZVYTJiOHRVRCZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000353s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007857s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007906s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000200s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-04-26T00:29:53+08:00 ] 183.136.255.67 /Public/wx/imgs/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-04-26T00:29:58+08:00 ] 183.136.255.67 /Myinfo/add_address/aid/11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+NOTIC: [8] Undefined index: to /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 94 行.
+NOTIC: [8] Undefined variable: ourl /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 118 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006512s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006558s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000310s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000637s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000703s ]
+
+[ 2017-04-26T00:30:02+08:00 ] 180.163.2.117 /Myinfo/address_list?to=1&ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjMmY29kZT0wMjE3MU92UjFoOE55NzFNSDl2UjEwUEp2UjE3MU92OSZzdGF0ZT0xMjMmY29kZT0wMDFwNXFGUTBjcEhGYTJrYkpHUTBmdHRGUTBwNXFGeiZzdGF0ZT0xMjMmY29kZT0wMDFiOHRVYTI3aUVxUTBHa2RZYTJ0d3ZVYTJiOHRVRCZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/MyinfoController.class.php 第 336 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005774s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005819s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000206s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-04-26T00:30:03+08:00 ] 183.136.255.67 /Myinfo/sub_add_address
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+NOTIC: [8] Undefined index: validate /alidata/www/nuoya/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /alidata/www/nuoya/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+
+[ 2017-04-26T00:30:03+08:00 ] 183.136.255.67 /Myinfo/address_list?to=1&ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjMmY29kZT0wMjE3MU92UjFoOE55NzFNSDl2UjEwUEp2UjE3MU92OSZzdGF0ZT0xMjMmY29kZT0wMDFwNXFGUTBjcEhGYTJrYkpHUTBmdHRGUTBwNXFGeiZzdGF0ZT0xMjMmY29kZT0wMDFiOHRVYTI3aUVxUTBHa2RZYTJ0d3ZVYTJiOHRVRCZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005642s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005699s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000232s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-04-26T00:30:03+08:00 ] 183.136.255.67 /Public/wx/imgs/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-04-26T00:30:08+08:00 ] 140.207.185.107 /Myinfo/add_address/aid/11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/MyinfoController.class.php 第 355 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+NOTIC: [8] Undefined index: to /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 94 行.
+NOTIC: [8] Undefined variable: ourl /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 118 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006337s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000234s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-04-26T00:30:16+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=021Wtfg12hn9501K8Wf12sffg12Wtfga&state=123&code=001WzhMJ03dmW32rhsNJ00mZLJ0WzhMY&state=123&code=041DrMAr1I125p0arNyr1RKWAr1DrMAC&state=123&code=02171OvR1h8Ny71MH9vR10PJvR171Ov9&state=123&code=001p5qFQ0cpHFa2kbJGQ0fttFQ0p5qFz&state=123&code=001b8tUa27iEqQ0GkdYa2twvUa2b8tUD&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:30:17+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=021Wtfg12hn9501K8Wf12sffg12Wtfga&state=123&code=001WzhMJ03dmW32rhsNJ00mZLJ0WzhMY&state=123&code=041DrMAr1I125p0arNyr1RKWAr1DrMAC&state=123&code=02171OvR1h8Ny71MH9vR10PJvR171Ov9&state=123&code=001p5qFQ0cpHFa2kbJGQ0fttFQ0p5qFz&state=123&code=001b8tUa27iEqQ0GkdYa2twvUa2b8tUD&state=123&code=021PhNKt0338Qd1vZoNt0g4NKt0PhNKB&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000356s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005806s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005856s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000449s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-04-26T00:31:16+08:00 ] 183.136.255.67 /Myinfo/address_list?to=1&ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjMmY29kZT0wMjE3MU92UjFoOE55NzFNSDl2UjEwUEp2UjE3MU92OSZzdGF0ZT0xMjMmY29kZT0wMDFwNXFGUTBjcEhGYTJrYkpHUTBmdHRGUTBwNXFGeiZzdGF0ZT0xMjMmY29kZT0wMDFiOHRVYTI3aUVxUTBHa2RZYTJ0d3ZVYTJiOHRVRCZzdGF0ZT0xMjMmY29kZT0wMjFQaE5LdDAzMzhRZDF2Wm9OdDBnNE5LdDBQaE5LQiZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005657s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005710s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000248s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000363s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000403s ]
+
+[ 2017-04-26T00:31:16+08:00 ] 183.136.255.67 /Public/wx/imgs/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2017-04-26T00:31:19+08:00 ] 183.136.255.67 /Myinfo/add_address/aid/11/ourl/aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjMmY29kZT0wMjE3MU92UjFoOE55NzFNSDl2UjEwUEp2UjE3MU92OSZzdGF0ZT0xMjMmY29kZT0wMDFwNXFGUTBjcEhGYTJrYkpHUTBmdHRGUTBwNXFGeiZzdGF0ZT0xMjMmY29kZT0wMDFiOHRVYTI3aUVxUTBHa2RZYTJ0d3ZVYTJiOHRVRCZzdGF0ZT0xMjMmY29kZT0wMjFQaE5LdDAzMzhRZDF2Wm9OdDBnNE5LdDBQaE5LQiZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+NOTIC: [8] Undefined index: to /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 94 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010145s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000142s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-04-26T00:31:24+08:00 ] 183.136.255.67 /Myinfo/sub_add_address
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000346s ]
+NOTIC: [8] Undefined index: validate /alidata/www/nuoya/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /alidata/www/nuoya/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+
+[ 2017-04-26T00:31:25+08:00 ] 183.136.255.67 /Orders/confirm_order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:31:25+08:00 ] 183.136.255.67 /Orders/confirm_order?code=011Yc7i02hGcMY00bWi02rjbi02Yc7ik&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [8] Undefined index: goods_id /alidata/www/nuoya/Application/Runtime/Cache/Wx/2b669b4e9ee411b745e159b3d42cd365.php 第 88 行.
+NOTIC: [8] Undefined index: gs_id /alidata/www/nuoya/Application/Runtime/Cache/Wx/2b669b4e9ee411b745e159b3d42cd365.php 第 89 行.
+NOTIC: [8] Undefined index: num /alidata/www/nuoya/Application/Runtime/Cache/Wx/2b669b4e9ee411b745e159b3d42cd365.php 第 90 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006123s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006174s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000211s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000523s ]
+
+[ 2017-04-26T00:31:26+08:00 ] 180.153.214.192 /Myinfo/address_list?to=1&ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjMmY29kZT0wMjE3MU92UjFoOE55NzFNSDl2UjEwUEp2UjE3MU92OSZzdGF0ZT0xMjMmY29kZT0wMDFwNXFGUTBjcEhGYTJrYkpHUTBmdHRGUTBwNXFGeiZzdGF0ZT0xMjMmY29kZT0wMDFiOHRVYTI3aUVxUTBHa2RZYTJ0d3ZVYTJiOHRVRCZzdGF0ZT0xMjMmY29kZT0wMjFQaE5LdDAzMzhRZDF2Wm9OdDBnNE5LdDBQaE5LQiZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/MyinfoController.class.php 第 336 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005568s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005631s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-04-26T00:31:29+08:00 ] 101.226.64.177 /Myinfo/add_address/aid/11/ourl/aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjMmY29kZT0wMjE3MU92UjFoOE55NzFNSDl2UjEwUEp2UjE3MU92OSZzdGF0ZT0xMjMmY29kZT0wMDFwNXFGUTBjcEhGYTJrYkpHUTBmdHRGUTBwNXFGeiZzdGF0ZT0xMjMmY29kZT0wMDFiOHRVYTI3aUVxUTBHa2RZYTJ0d3ZVYTJiOHRVRCZzdGF0ZT0xMjMmY29kZT0wMjFQaE5LdDAzMzhRZDF2Wm9OdDBnNE5LdDBQaE5LQiZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/MyinfoController.class.php 第 355 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+NOTIC: [8] Undefined index: to /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 94 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008694s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000213s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000303s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000597s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000520s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000574s ]
+
+[ 2017-04-26T00:31:34+08:00 ] 180.153.201.15 /Orders/confirm_order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:31:46+08:00 ] 175.153.22.24 /Orders/confirm_order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:31:55+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=021Wtfg12hn9501K8Wf12sffg12Wtfga&state=123&code=001WzhMJ03dmW32rhsNJ00mZLJ0WzhMY&state=123&code=041DrMAr1I125p0arNyr1RKWAr1DrMAC&state=123&code=02171OvR1h8Ny71MH9vR10PJvR171Ov9&state=123&code=001p5qFQ0cpHFa2kbJGQ0fttFQ0p5qFz&state=123&code=001b8tUa27iEqQ0GkdYa2twvUa2b8tUD&state=123&code=021PhNKt0338Qd1vZoNt0g4NKt0PhNKB&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:31:55+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=021Wtfg12hn9501K8Wf12sffg12Wtfga&state=123&code=001WzhMJ03dmW32rhsNJ00mZLJ0WzhMY&state=123&code=041DrMAr1I125p0arNyr1RKWAr1DrMAC&state=123&code=02171OvR1h8Ny71MH9vR10PJvR171Ov9&state=123&code=001p5qFQ0cpHFa2kbJGQ0fttFQ0p5qFz&state=123&code=001b8tUa27iEqQ0GkdYa2twvUa2b8tUD&state=123&code=021PhNKt0338Qd1vZoNt0g4NKt0PhNKB&state=123&code=0412mrUC17PC800zVVVC119IUC12mrUV&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000364s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006060s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000158s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-04-26T00:32:22+08:00 ] 183.136.255.67 /Myinfo/address_list?to=1&ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjMmY29kZT0wMjE3MU92UjFoOE55NzFNSDl2UjEwUEp2UjE3MU92OSZzdGF0ZT0xMjMmY29kZT0wMDFwNXFGUTBjcEhGYTJrYkpHUTBmdHRGUTBwNXFGeiZzdGF0ZT0xMjMmY29kZT0wMDFiOHRVYTI3aUVxUTBHa2RZYTJ0d3ZVYTJiOHRVRCZzdGF0ZT0xMjMmY29kZT0wMjFQaE5LdDAzMzhRZDF2Wm9OdDBnNE5LdDBQaE5LQiZzdGF0ZT0xMjMmY29kZT0wNDEybXJVQzE3UEM4MDB6VlZWQzExOUlVQzEybXJVViZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000353s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005604s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-04-26T00:32:22+08:00 ] 183.136.255.67 /Public/wx/imgs/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-04-26T00:32:24+08:00 ] 183.136.255.67 /Myinfo/add_address/aid/14/ourl/aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjMmY29kZT0wMjE3MU92UjFoOE55NzFNSDl2UjEwUEp2UjE3MU92OSZzdGF0ZT0xMjMmY29kZT0wMDFwNXFGUTBjcEhGYTJrYkpHUTBmdHRGUTBwNXFGeiZzdGF0ZT0xMjMmY29kZT0wMDFiOHRVYTI3aUVxUTBHa2RZYTJ0d3ZVYTJiOHRVRCZzdGF0ZT0xMjMmY29kZT0wMjFQaE5LdDAzMzhRZDF2Wm9OdDBnNE5LdDBQaE5LQiZzdGF0ZT0xMjMmY29kZT0wNDEybXJVQzE3UEM4MDB6VlZWQzExOUlVQzEybXJVViZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000397s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+NOTIC: [8] Undefined index: to /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 94 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006589s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006642s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000154s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-04-26T00:32:32+08:00 ] 180.153.214.178 /Myinfo/address_list?to=1&ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjMmY29kZT0wMjE3MU92UjFoOE55NzFNSDl2UjEwUEp2UjE3MU92OSZzdGF0ZT0xMjMmY29kZT0wMDFwNXFGUTBjcEhGYTJrYkpHUTBmdHRGUTBwNXFGeiZzdGF0ZT0xMjMmY29kZT0wMDFiOHRVYTI3aUVxUTBHa2RZYTJ0d3ZVYTJiOHRVRCZzdGF0ZT0xMjMmY29kZT0wMjFQaE5LdDAzMzhRZDF2Wm9OdDBnNE5LdDBQaE5LQiZzdGF0ZT0xMjMmY29kZT0wNDEybXJVQzE3UEM4MDB6VlZWQzExOUlVQzEybXJVViZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/MyinfoController.class.php 第 336 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005826s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005867s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000214s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-04-26T00:32:34+08:00 ] 101.226.89.116 /Myinfo/add_address/aid/14/ourl/aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjMmY29kZT0wMjE3MU92UjFoOE55NzFNSDl2UjEwUEp2UjE3MU92OSZzdGF0ZT0xMjMmY29kZT0wMDFwNXFGUTBjcEhGYTJrYkpHUTBmdHRGUTBwNXFGeiZzdGF0ZT0xMjMmY29kZT0wMDFiOHRVYTI3aUVxUTBHa2RZYTJ0d3ZVYTJiOHRVRCZzdGF0ZT0xMjMmY29kZT0wMjFQaE5LdDAzMzhRZDF2Wm9OdDBnNE5LdDBQaE5LQiZzdGF0ZT0xMjMmY29kZT0wNDEybXJVQzE3UEM4MDB6VlZWQzExOUlVQzEybXJVViZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/MyinfoController.class.php 第 355 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [8] Undefined index: to /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 94 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006612s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000274s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000424s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000477s ]
+
+[ 2017-04-26T00:33:57+08:00 ] 183.136.255.67 /Myinfo/sub_add_address
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+NOTIC: [8] Undefined index: validate /alidata/www/nuoya/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /alidata/www/nuoya/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+
+[ 2017-04-26T00:33:57+08:00 ] 183.136.255.67 /Orders/confirm_order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:33:58+08:00 ] 183.136.255.67 /Orders/confirm_order?code=0114IU9A1DtTvg0GZRbA1ASY9A14IU9g&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [8] Undefined index: goods_id /alidata/www/nuoya/Application/Runtime/Cache/Wx/2b669b4e9ee411b745e159b3d42cd365.php 第 88 行.
+NOTIC: [8] Undefined index: gs_id /alidata/www/nuoya/Application/Runtime/Cache/Wx/2b669b4e9ee411b745e159b3d42cd365.php 第 89 行.
+NOTIC: [8] Undefined index: num /alidata/www/nuoya/Application/Runtime/Cache/Wx/2b669b4e9ee411b745e159b3d42cd365.php 第 90 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005888s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005938s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000441s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-04-26T00:34:31+08:00 ] 183.136.255.67 /Public/wx/imgs/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-04-26T00:34:35+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=021Wtfg12hn9501K8Wf12sffg12Wtfga&state=123&code=001WzhMJ03dmW32rhsNJ00mZLJ0WzhMY&state=123&code=041DrMAr1I125p0arNyr1RKWAr1DrMAC&state=123&code=02171OvR1h8Ny71MH9vR10PJvR171Ov9&state=123&code=001p5qFQ0cpHFa2kbJGQ0fttFQ0p5qFz&state=123&code=001b8tUa27iEqQ0GkdYa2twvUa2b8tUD&state=123&code=021PhNKt0338Qd1vZoNt0g4NKt0PhNKB&state=123&code=0412mrUC17PC800zVVVC119IUC12mrUV&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000438s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:34:35+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=021Wtfg12hn9501K8Wf12sffg12Wtfga&state=123&code=001WzhMJ03dmW32rhsNJ00mZLJ0WzhMY&state=123&code=041DrMAr1I125p0arNyr1RKWAr1DrMAC&state=123&code=02171OvR1h8Ny71MH9vR10PJvR171Ov9&state=123&code=001p5qFQ0cpHFa2kbJGQ0fttFQ0p5qFz&state=123&code=001b8tUa27iEqQ0GkdYa2twvUa2b8tUD&state=123&code=021PhNKt0338Qd1vZoNt0g4NKt0PhNKB&state=123&code=0412mrUC17PC800zVVVC119IUC12mrUV&state=123&code=001yNFUe2l3ylD0F4lVe2t5VUe2yNFU7&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006198s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006253s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000206s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-04-26T00:34:37+08:00 ] 183.136.255.67 /Myinfo/address_list?to=1&ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjMmY29kZT0wMjE3MU92UjFoOE55NzFNSDl2UjEwUEp2UjE3MU92OSZzdGF0ZT0xMjMmY29kZT0wMDFwNXFGUTBjcEhGYTJrYkpHUTBmdHRGUTBwNXFGeiZzdGF0ZT0xMjMmY29kZT0wMDFiOHRVYTI3aUVxUTBHa2RZYTJ0d3ZVYTJiOHRVRCZzdGF0ZT0xMjMmY29kZT0wMjFQaE5LdDAzMzhRZDF2Wm9OdDBnNE5LdDBQaE5LQiZzdGF0ZT0xMjMmY29kZT0wNDEybXJVQzE3UEM4MDB6VlZWQzExOUlVQzEybXJVViZzdGF0ZT0xMjMmY29kZT0wMDF5TkZVZTJsM3lsRDBGNGxWZTJ0NVZVZTJ5TkZVNyZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005826s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005871s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000213s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-04-26T00:34:37+08:00 ] 183.136.255.67 /Public/wx/imgs/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2017-04-26T00:34:39+08:00 ] 183.136.255.67 /Myinfo/set_default_address
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-04-26T00:34:40+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=021Wtfg12hn9501K8Wf12sffg12Wtfga&state=123&code=001WzhMJ03dmW32rhsNJ00mZLJ0WzhMY&state=123&code=041DrMAr1I125p0arNyr1RKWAr1DrMAC&state=123&code=02171OvR1h8Ny71MH9vR10PJvR171Ov9&state=123&code=001p5qFQ0cpHFa2kbJGQ0fttFQ0p5qFz&state=123&code=001b8tUa27iEqQ0GkdYa2twvUa2b8tUD&state=123&code=021PhNKt0338Qd1vZoNt0g4NKt0PhNKB&state=123&code=0412mrUC17PC800zVVVC119IUC12mrUV&state=123&code=001yNFUe2l3ylD0F4lVe2t5VUe2yNFU7&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000354s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:34:41+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=021Wtfg12hn9501K8Wf12sffg12Wtfga&state=123&code=001WzhMJ03dmW32rhsNJ00mZLJ0WzhMY&state=123&code=041DrMAr1I125p0arNyr1RKWAr1DrMAC&state=123&code=02171OvR1h8Ny71MH9vR10PJvR171Ov9&state=123&code=001p5qFQ0cpHFa2kbJGQ0fttFQ0p5qFz&state=123&code=001b8tUa27iEqQ0GkdYa2twvUa2b8tUD&state=123&code=021PhNKt0338Qd1vZoNt0g4NKt0PhNKB&state=123&code=0412mrUC17PC800zVVVC119IUC12mrUV&state=123&code=001yNFUe2l3ylD0F4lVe2t5VUe2yNFU7&state=123&code=011sGYV12uj8pZ0OZPT12EZ3W12sGYVS&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000360s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005982s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000214s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-04-26T00:34:47+08:00 ] 101.226.89.123 /Myinfo/address_list?to=1&ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMjFXdGZnMTJobjk1MDFLOFdmMTJzZmZnMTJXdGZnYSZzdGF0ZT0xMjMmY29kZT0wMDFXemhNSjAzZG1XMzJyaHNOSjAwbVpMSjBXemhNWSZzdGF0ZT0xMjMmY29kZT0wNDFEck1BcjFJMTI1cDBhck55cjFSS1dBcjFEck1BQyZzdGF0ZT0xMjMmY29kZT0wMjE3MU92UjFoOE55NzFNSDl2UjEwUEp2UjE3MU92OSZzdGF0ZT0xMjMmY29kZT0wMDFwNXFGUTBjcEhGYTJrYkpHUTBmdHRGUTBwNXFGeiZzdGF0ZT0xMjMmY29kZT0wMDFiOHRVYTI3aUVxUTBHa2RZYTJ0d3ZVYTJiOHRVRCZzdGF0ZT0xMjMmY29kZT0wMjFQaE5LdDAzMzhRZDF2Wm9OdDBnNE5LdDBQaE5LQiZzdGF0ZT0xMjMmY29kZT0wNDEybXJVQzE3UEM4MDB6VlZWQzExOUlVQzEybXJVViZzdGF0ZT0xMjMmY29kZT0wMDF5TkZVZTJsM3lsRDBGNGxWZTJ0NVZVZTJ5TkZVNyZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/MyinfoController.class.php 第 336 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005499s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005542s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000198s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-04-26T00:35:21+08:00 ] 183.136.255.67 /Public/wx/imgs/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-04-26T00:35:37+08:00 ] 183.136.255.67 /Goods/goods_detail/gid/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:35:38+08:00 ] 183.136.255.67 /Goods/goods_detail/gid/7?code=0115VAmB160hAh0zBDoB1FFzmB15VAm9&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000366s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006503s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006557s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000137s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000222s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-04-26T00:35:41+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:35:41+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=031FQVe218UqtL1vpMd21YGSe21FQVek&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006502s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006551s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2017-04-26T00:35:53+08:00 ] 183.136.255.67 /Myinfo/address_list?to=1&ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMzFGUVZlMjE4VXF0TDF2cE1kMjFZR1NlMjFGUVZlayZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000374s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006303s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006381s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000209s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-04-26T00:35:53+08:00 ] 183.136.255.67 /Public/wx/imgs/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-04-26T00:35:56+08:00 ] 183.136.255.67 /Myinfo/set_default_address
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-04-26T00:35:56+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=031FQVe218UqtL1vpMd21YGSe21FQVek&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000377s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:35:57+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=031FQVe218UqtL1vpMd21YGSe21FQVek&state=123&code=021y5RER0SB3Xb2pPSGR09s4FR0y5REW&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005942s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005996s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000253s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-04-26T00:36:03+08:00 ] 101.226.64.177 /Myinfo/address_list?to=1&ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMzFGUVZlMjE4VXF0TDF2cE1kMjFZR1NlMjFGUVZlayZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000354s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/MyinfoController.class.php 第 336 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005790s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005833s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000218s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-04-26T00:38:58+08:00 ] 183.136.255.67 /Myinfo/address_list?to=1&ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMzFGUVZlMjE4VXF0TDF2cE1kMjFZR1NlMjFGUVZlayZzdGF0ZT0xMjMmY29kZT0wMjF5NVJFUjBTQjNYYjJwUFNHUjA5czRGUjB5NVJFVyZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005993s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006040s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000166s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000205s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-04-26T00:38:58+08:00 ] 183.136.255.67 /Public/wx/imgs/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2017-04-26T00:39:03+08:00 ] 183.136.255.67 /Myinfo/add_address?aid=10&ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMzFGUVZlMjE4VXF0TDF2cE1kMjFZR1NlMjFGUVZlayZzdGF0ZT0xMjMmY29kZT0wMjF5NVJFUjBTQjNYYjJwUFNHUjA5czRGUjB5NVJFVyZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000354s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+NOTIC: [8] Undefined index: to /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 94 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007915s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000205s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-04-26T00:39:07+08:00 ] 180.153.201.66 /Myinfo/address_list?to=1&ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMzFGUVZlMjE4VXF0TDF2cE1kMjFZR1NlMjFGUVZlayZzdGF0ZT0xMjMmY29kZT0wMjF5NVJFUjBTQjNYYjJwUFNHUjA5czRGUjB5NVJFVyZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/MyinfoController.class.php 第 336 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005465s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005507s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000157s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000240s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-04-26T00:39:13+08:00 ] 101.226.33.201 /Myinfo/add_address?aid=10&ourl=aHR0cDovL251b3lhLjg2dHVkaS5jb20vT3JkZXJzL2NvbmZpcm1fb3JkZXI/Z29vZHNfaWQ9NyZnc19pZD0xOSZwcmljZT0xMDAuMDAmbnVtPTEmY29kZT0wMzFGUVZlMjE4VXF0TDF2cE1kMjFZR1NlMjFGUVZlayZzdGF0ZT0xMjMmY29kZT0wMjF5NVJFUjBTQjNYYjJwUFNHUjA5czRGUjB5NVJFVyZzdGF0ZT0xMjM=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/MyinfoController.class.php 第 355 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+NOTIC: [8] Undefined index: to /alidata/www/nuoya/Application/Runtime/Cache/Wx/d11c95efd622860acefb70002d097e4a.php 第 94 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006931s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-04-26T00:39:17+08:00 ] 183.136.255.67 /Myinfo/sub_add_address
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000345s ]
+NOTIC: [8] Undefined index: validate /alidata/www/nuoya/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /alidata/www/nuoya/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+
+[ 2017-04-26T00:39:17+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=031FQVe218UqtL1vpMd21YGSe21FQVek&state=123&code=021y5RER0SB3Xb2pPSGR09s4FR0y5REW&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:39:18+08:00 ] 183.136.255.67 /Orders/confirm_order?goods_id=7&gs_id=19&price=100.00&num=1&code=031FQVe218UqtL1vpMd21YGSe21FQVek&state=123&code=021y5RER0SB3Xb2pPSGR09s4FR0y5REW&state=123&code=041pKfXb2wUVER0upeVb212ZWb2pKfX0&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007191s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007243s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000283s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-04-26T00:39:21+08:00 ] 183.136.255.67 /Orders/commit_order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+NOTIC: [8] Undefined index: validate /alidata/www/nuoya/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /alidata/www/nuoya/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+
+[ 2017-04-26T00:39:21+08:00 ] 183.136.255.67 /Orders/to_pay/order_no/NB14931383611919
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:39:22+08:00 ] 140.207.54.74 /Wxset/response?signature=e54bc08a09030724c790404e582f3c6a196d67c9&timestamp=1493138361&nonce=1904032709&openid=o8_jh0mq9uZ63rD5J5RFkjcFYXaA&encrypt_type=aes&msg_signature=b7c9b430c305f09ac95b44499551aee3e2b71641
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-04-26T00:39:22+08:00 ] 183.136.255.67 /Orders/to_pay/order_no/NB14931383611919?code=041og1x11LT9522hU0z11kpWw11og1xP&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000204s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000255s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004344s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004398s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000185s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000215s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-04-26T00:39:31+08:00 ] 140.207.185.112 /Orders/to_pay/order_no/NB14931383611919
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T00:39:42+08:00 ] 42.51.159.84 /Orders/to_pay/order_no/NB14931383611919
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T10:26:31+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T10:31:55+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T10:32:12+08:00 ] 183.136.252.113 /undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+ERR: 无法加载控制器:Undefined
+
+[ 2017-04-26T10:33:03+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T10:33:08+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T10:33:08+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T10:33:24+08:00 ] 183.136.252.113 /undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+ERR: 无法加载控制器:Undefined
+
+[ 2017-04-26T10:42:27+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000372s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T10:42:34+08:00 ] 183.136.252.113 /undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+ERR: 无法加载控制器:Undefined
+
+[ 2017-04-26T10:44:34+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T10:44:40+08:00 ] 183.136.252.113 /undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+ERR: 无法加载控制器:Undefined
+
+[ 2017-04-26T10:49:12+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000363s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T10:49:25+08:00 ] 183.136.252.113 /undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000354s ]
+ERR: 无法加载控制器:Undefined
+
+[ 2017-04-26T11:11:17+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T11:11:35+08:00 ] 183.136.252.113 /undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000370s ]
+ERR: 无法加载控制器:Undefined
+
+[ 2017-04-26T11:27:03+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T12:22:42+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T12:22:43+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T12:22:44+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T12:22:45+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T12:22:47+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T12:23:55+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000366s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T12:40:52+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000346s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T12:54:38+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T12:54:52+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000352s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T12:57:06+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T12:57:10+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T12:58:48+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T12:59:21+08:00 ] 140.207.54.74 /Wxset/response?signature=1ef1527a7479c83c18f2ae05cb7bf3527333061b&timestamp=1493182761&nonce=1868577262&openid=o8_jh0mq9uZ63rD5J5RFkjcFYXaA&encrypt_type=aes&msg_signature=5be0a1213b6c6e0a78122ee1d13687b2ffb5e73d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000658s ]
+
+[ 2017-04-26T12:59:22+08:00 ] 115.218.233.226 /Shop/shop
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T12:59:22+08:00 ] 115.218.233.226 /Shop/shop?code=011JgYPw0fkeoh1dIrQw0Nv3Qw0JgYP4&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000370s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000192s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000243s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006727s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006782s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000137s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000415s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-04-26T12:59:24+08:00 ] 115.218.233.226 /Shop/load_more
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-04-26T12:59:26+08:00 ] 115.218.233.226 /Shop/load_more
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-04-26T12:59:28+08:00 ] 115.218.233.226 /Goods/goods_detail/gid/19
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T12:59:28+08:00 ] 115.218.233.226 /Goods/goods_detail/gid/19?code=041EU33v0Gtrkd1zg25v0RUU2v0EU33c&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006560s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006611s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000167s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000213s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-04-26T12:59:32+08:00 ] 180.153.212.13 /Shop/shop
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T12:59:41+08:00 ] 140.207.54.74 /Wxset/response?signature=787b173d27e21fb5d9190da0b1d6a8f91d88965d&timestamp=1493182781&nonce=1857359819&openid=o8_jh0mq9uZ63rD5J5RFkjcFYXaA&encrypt_type=aes&msg_signature=0dbbf030c24960476afe9390356eac31d22f6296
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000543s ]
+
+[ 2017-04-26T12:59:41+08:00 ] 115.218.233.226 /Shop/shop
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T12:59:42+08:00 ] 115.218.233.226 /Shop/shop?code=011bEEck2zZt9H0rPJck2IWtck2bEEc8&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005470s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005521s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000144s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000202s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-04-26T12:59:46+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000354s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T12:59:49+08:00 ] 115.218.233.226 /Goods/goods_detail/gid/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T12:59:49+08:00 ] 115.218.233.226 /Goods/goods_detail/gid/18?code=0216M29G11RN530sYG9G1QJ19G16M299&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007238s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007292s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000353s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000806s ]
+
+[ 2017-04-26T13:00:11+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T13:00:43+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T13:00:47+08:00 ] 115.218.233.226 /Goods/goods_detail/gid/18?code=0216M29G11RN530sYG9G1QJ19G16M299&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000423s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-04-26T13:00:48+08:00 ] 115.218.233.226 /Goods/goods_detail/gid/18?code=0216M29G11RN530sYG9G1QJ19G16M299&state=123&code=0216qYIC01c9Mf2O2pHC0Vo6JC06qYIf&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007274s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007335s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000158s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000350s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000705s ]
+
+[ 2017-04-26T13:19:07+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000364s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T13:26:45+08:00 ] 183.136.252.113 /Public/admin/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-04-26T15:30:29+08:00 ] 140.205.201.38 /index.php?m=member&c=index&a=register&siteid=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-04-26T15:30:29+08:00 ] 140.205.201.38 /index.php?m=wap&a=index&siteid=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000459s ]
+ERR: 无法加载控制器:Index
+

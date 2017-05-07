@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="format-detection" content="email=no"/>
+    <title>退款申请</title>
+    <link href="__PUBLIC__/wx/apla/css/common.css" rel="stylesheet"/>
+    <link href="__PUBLIC__/wx/apla/css/order.css" rel="stylesheet"/>
+        <link rel="stylesheet" type="text/css" href="__PUBLIC__/wx/apla/css/frm_user.css"/>
+    <script type="text/javascript" src="__PUBLIC__/wx/Static/js/jquery.min.js"></script>
+</head>
+<style type="text/css">
+    li span:first-child {
+        width: auto;
+    }
+    li {
+        overflow: hidden;
+    }
+    .top-header {
+        padding-top: 4rem; 
+    }
+    .main {
+    background: #fff;
+     margin-bottom: 0rem; 
+    }
+</style>
+<body class="top-header">
+<header class="header flex">
+    <i class="back" onclick="javascript:history.go(-1);"></i>
+    <h1 class="flex-auto">退款申请</h1>
+    <i></i>
+</header>
+<div class="main">
+    <ul class="main-border">
+        <li class="list flex">
+            <div class="left">商品名称：</div>
+            <div class="right flex-auto"><{$order.goods_name}></div>
+        </li>
+        <li class="list flex">
+            <div class="left">订单编号：</div>
+            <div class="right flex-auto"><{$order.order_no}></div>
+        </li>
+        <li class="list flex">
+            <div class="left">订单价格：</div>
+            <div class="right price flex-auto">&yen;<{$order.money}></div>
+        </li>
+        <li class="list flex">
+            <div class="left">交易完成时间：</div>
+            <div class="right flex-auto"><{$order.end_time|date='Y-m-d H:i:s',###}></div>
+        </li>
+    </ul>
+</div>
+<div class="main">
+    <ul class=" main-border">
+        <!--<li class="list flex">-->
+            <!--<div class="left">退款金额：</div>-->
+            <!--<div class="right price flex-auto">&yen;{$data.pay_money}</div>-->
+        <!--</li>-->
+        <!--<li class="list flex">-->
+            <!--<div class="left">手机号码：</div>-->
+            <!--<div class="right flex-auto"><input type="tel" id='phone' placeholder="请填写手机号便于卖家联系您" style="height: 100%;width: 100%;border: 0px;display: table-caption;"></div>-->
+        <!--</li>-->
+        <li class="list flex" style="height: 200px">
+            <div class="left">退款原因：</div>
+            <div class="right flex-auto">
+                <textarea placeholder="最多可填写200字" id="reason" maxlength="200" style="height: 180px;max-height: 180px;width:100%;max-width: 100%;border: 0px;"></textarea>
+                <p class="text-right font-num-box"><span class="font-num">1</span>/200</p>
+            </div>
+        </li>
+    </ul>
+</div>
+<footer class="footer">
+    <a class="footer-btn" onclick="refund_order('<{$order.order_no}>')">确认退款</a>
+</footer>
+<script src="__PUBLIC__/wx/apla/js/zepto.js"></script>
+<script src="__PUBLIC__/wx/apla/js/jquery.min.js"></script>
+<script src="__PUBLIC__/admin/js/plugins/layer/layer.min.js"></script>
+<script type="text/javascript">
+//        function tuikuan(id){
+//        var myreg = /^(((13[0-9]{1})|(15[0-9]{1})|(18[0-9]{1}))+\d{8})$/;
+//        if(!myreg.test($("#phone").val()))
+//        {
+//            alert('请输入有效的手机号码！');
+//            return false;
+//        }
+//        var text = $('#refund-detail').val();
+//        var ret = confirm('确认退款？');
+//        if(ret){
+//            var tuikuan = './index.php?g=App&m=Post&a=tuikuan&id={$data.id}';
+//            $.post(tuikuan,{phone:$("#phone").val(),text:text},function(data){
+//                if(data=='1001'){
+//                    alert('申请成功');
+//                    window.location.href=document.referrer;
+//                }else{
+//                    alert(data);
+//                }
+//            })
+//        }
+//        }
+
+        function refund_order(order_no){
+            var reason=$('#reason').val();
+            $.post('__MODULE__/Orders/commit_refund_apply',{order_no:order_no,reason:reason},function(data){
+                if(data.code=='1001'){
+                    window.location.href='__MODULE__/Orders/my_orders/status/4';
+                }else{
+                    layer.msg(data.result,{time:2000})
+                }
+            });
+        }
+
+</script>
+<script>
+
+</script>
+</body>
+</html>

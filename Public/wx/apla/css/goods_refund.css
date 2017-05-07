@@ -1,0 +1,99 @@
+html{
+    background: #f7f7fa;
+}
+.main  .list{
+    line-height: 4rem;
+}
+.main-goods-detail .list{
+    line-height: 3rem;
+}
+.main-goods-detail .right .goods-name{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.main .main-border .list{
+    border-bottom: 1px solid #d9d9d9;
+    padding: 0 3%;
+}
+.main .left{
+    margin-right: 2rem;
+}
+.price{
+    color:#c8b48f ;
+}
+input[type=tel]{
+    display: inline-block;
+    width: 100%;
+    line-height: 3rem;
+    border: 0;
+    outline: 0;
+}
+textarea{
+    display: inline-block;
+    width: 100%;
+    height: 6rem;
+    padding: 1rem 0;
+    line-height: 2rem;
+    vertical-align: middle;
+    border: 0;
+    resize:none;
+    outline: 0;
+}
+.font-num-box{
+    line-height: 1rem;
+}
+.img-box{
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    overflow: hidden;
+}
+.img-list img{
+    width: 3rem;
+}
+.img-add{
+    overflow: hidden;
+    padding-bottom: 1rem;
+}
+.img-list .img-list-con{
+    display: inline-block;
+    float: left;
+    height: 3rem;
+}
+.img-list .icon-close{
+    display: inline-block;
+    width: 2.5rem;
+    height: 2.5rem;
+    background: url("../imgs/icon.png") no-repeat -2.5rem -2.5rem;
+    background-size: 12.5rem;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+    position: absolute;
+    top: -1.2rem;
+    right: -1.3rem;
+}
+.img-list .img{
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    position: relative;
+    margin-right: 1rem;
+}
+.img-none{
+    display: inline-block;
+    float: left;
+    width: 3rem;
+    height: 3rem;
+    background: url("../imgs/btn_tuikuan_tupian.png") no-repeat center;
+    background-size: 3rem;
+    vertical-align: middle;
+}
+.img-none input{
+    opacity: 0;
+    display: inline-block;
+    width: 0;
+    height: 0;
+}

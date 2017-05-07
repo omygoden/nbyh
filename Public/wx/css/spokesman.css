@@ -1,0 +1,155 @@
+﻿body {
+    background-color:#f0eff5;
+    margin:0;
+    padding:0;
+}
+img{
+    width:100%;
+    display:inline-block;
+}
+.head{
+    background-color:white;
+    text-align:center;
+    vertical-align:middle;
+    line-height: 3rem;
+    /*padding-top:10px;*/
+}
+
+.head >div{
+    display:flex;
+    justify-content:space-around;
+    font-size:1rem;
+    clear:left;
+    margin:0 30px;
+}
+.head >div .active{
+    border-bottom:2px solid #4d4d4d;
+}
+
+.men-content{
+    font-size:1rem;
+}
+
+.men-list{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+.men-list li{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    padding:10px;
+    border-bottom:1px solid #cccccc;
+}
+.men-list li .img-box {
+    border-radius: 2rem;
+    width: 4rem;
+    height: 4rem;
+    display: inline-block;
+    margin-right: 1rem;
+    overflow: hidden;
+}
+.men-list .user-img img{
+    width: 100%;
+}
+.men-list li div p{
+    margin:0;
+    line-height: 2rem;
+    height: 2rem;
+    /*padding:5px;*/
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+/*apply_cash*/
+.record{
+    margin:0;
+    padding:0 3%;
+    list-style-type:none;
+    color:#808080;
+}
+.record li{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    margin:10px  0;
+}
+.record li:nth-child(1){
+    color:black;
+}
+.record li span{
+    display:inline-block;
+    width:65px;
+}
+.record li span:nth-child(1){
+    flex:1;
+}
+.inputcash{
+    padding:20px;
+    background-color:white;
+    /*border-top:1px solid #cccccc;*/
+}
+.inputcash div{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+}
+[type="text"]{
+    font-size:1.2rem;
+    line-height:20px;
+    flex:1;
+    padding:5px;
+}
+input{
+   
+    border:1px solid #cccccc;
+    border-radius:4px;
+    box-shadow:none;
+}
+.submit{
+  
+    width:100%;
+    padding:8px  0;
+    margin-top:40px;
+    background: -moz-linear-gradient(left top, #ffffff, #cdcdcd);
+    background: -webkit-linear-gradient(left top, #ffffff, #cdcdcd);
+    background: -o-linear-gradient(left top, #ffffff, #cdcdcd);
+    background: linear-gradient(to bottom, #ffffff 0%,#cdcdcd 100%);
+}
+
+
+/*my_coupon*/
+.coupon-list li {
+    margin:10px;
+
+}
+.coupon-list li img{
+    position:relative;
+    z-index:-1;
+    display:block;
+    vertical-align:middle;
+}
+.coupon-list li div{
+    position:absolute;
+    padding:1.2rem 10px 10px 40%;
+    text-align:center;
+    display:block;
+    vertical-align:middle;
+}
+.font-1{
+    font-size:1.2rem;
+    font-weight:600;
+}
+.font-2{
+    font-size:1rem;
+    color:#cc3611;
+    padding:0.3rem  0;
+}
+.font-2 span{
+    font-size:2.5rem;
+    font-weight:600;
+    padding-right:4px;
+}

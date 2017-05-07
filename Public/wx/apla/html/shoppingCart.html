@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="format-detection" content="email=no"/>
+    <title>购物车</title>
+    <link rel="stylesheet" type="text/css" href="../css/common.css">
+    <link rel="stylesheet" type="text/css" href="../css/shoppingCart.css">
+</head>
+<body>
+<form id="form">
+    <div class="main goods">
+        <!--<p class="shop-name"><a href="#" class="btn-black">继续购物</a></p>-->
+        <p class="shop-name flex">
+        <span class="left shop-title flex-auto">店名</span>
+        <span class="right"><label class="input-checkbox flex">
+            <input type="checkbox" name="goods_all" id="goods_all"><i class="icon icon-checkbox"></i>全选
+        </label></span>
+        </p>
+        <ul class="goods-detail">
+            <li>
+                <div class="flex">
+                    <label class="input-checkbox flex">
+                        <input type="checkbox" name="goods" id="goods_1" data-price="12.00"><i
+                            class="icon icon-checkbox"></i>
+                    </label>
+                    <label class="left" for="goods_1">
+                        <img src="../imgs/other/order_03.png">
+                    </label>
+                    <div class="right flex-auto">
+                        <label for="goods_1" class="h3 text-1">
+                            X系列情侣项链X系列情侣项链X系列情侣项链X系列情侣项链
+                        </label>
+                        <label class="goods-more" for="goods_1">商品详情商品详情商品详情商品详情商品详情商品详情商品详情商品详情商品详情商品详情商品详情商品详情</label>
+                        <p class="flex">
+                            <span class="price flex-auto">&yen;99.00</span>
+                            <span class="choose-number">
+                            <i class="icon icon-reduce"></i>
+                                <input type="number" disabled name="number" class="number" value="2">
+                            <i class="icon icon-add"></i>
+                        </span>
+                        </p>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="flex">
+                    <label class="input-checkbox flex">
+                        <input type="checkbox" name="goods" id="goods_1" data-price="12.00"><i
+                            class="icon icon-checkbox"></i>
+                    </label>
+                    <label class="left" for="goods_1">
+                        <img src="../imgs/other/order_03.png">
+                    </label>
+                    <div class="right flex-auto">
+                        <label for="goods_1" class="h3 text-1">
+                            X系列情侣项链X系列情侣项链X系列情侣项链X系列情侣项链
+                        </label>
+                        <label class="goods-more" for="goods_1">商品详情商品详情商品详情商品详情商品详情商品详情商品详情商品详情商品详情商品详情商品详情商品详情</label>
+                        <p class="flex">
+                            <span class="price flex-auto">&yen;99.00</span>
+                            <span class="choose-number">
+                            <i class="icon icon-reduce"></i>
+                                <input type="number" disabled name="number" class="number" value="2">
+                            <i class="icon icon-add"></i>
+                        </span>
+                        </p>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <footer class="flex footer-count">总计：<span id="allprice">&yen;99</span>
+        <span class="flex-auto text-right"><button class="btn-black">结算</button></span>
+    </footer>
+</form>
+<script src="../js/zepto.js"></script>
+<script>
+    //付款总额
+    function allprice() {
+        var pay_list = document.getElementsByName('goods');
+        var allprice = 0;
+        var is_all_choose = 0;
+        for (var i = 0, leg = pay_list.length; i < leg; i++) {
+            if (!!pay_list[i].checked) {
+                var num = document.getElementsByName('number')[i].value;
+                var price = pay_list[i].dataset.price;
+                allprice = Number(allprice) + Number(num) * Number(price)
+            } else {
+                is_all_choose = 1;
+            }
+        }
+        document.getElementById('allprice').innerText = allprice;
+        if (is_all_choose == 0) {
+            document.getElementById('goods_all').checked = true;
+        }
+    }
+    $('.goods-detail input[type=checkbox]').on('change', function () {
+        allprice();
+    })
+    //    数量减
+    $('.icon-reduce').on('click', function () {
+        var number = this.nextElementSibling;
+        number.value = number.value > 1 ? Number(number.value) - 1 : 1;
+        allprice();
+    });
+    //数量加
+    $('.icon-add').on('click', function () {
+        var number = this.previousElementSibling;
+        number.value = number.value ? Number(number.value) + 1 : 1;
+        allprice();
+    });
+    //    全选
+    $('#goods_all').on('change', function () {
+        var list = document.getElementById('form').goods;
+        if (this.checked) {
+            for (var i = 0; i < list.length; i++) {
+                list[i].checked = true;
+            }
+        } else {
+            for (var i = 0; i < list.length; i++) {
+                list[i].checked = false;
+            }
+        }
+        allprice();
+    })
+    //    取消全选
+    $('.goods-detail .input-checkbox input').on('change', function () {
+        if (!this.checked) {
+            var googsAll = document.getElementById('goods_all');
+            if (googsAll.checked == true) {
+                googsAll.checked = false;
+            }
+        }
+    })
+</script>
+</body>
+</html>

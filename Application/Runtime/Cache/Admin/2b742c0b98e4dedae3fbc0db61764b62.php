@@ -1,0 +1,471 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--360浏览器优先以webkit内核解析-->
+    <title>首页</title>
+    <link rel="shortcut icon" href="/Public/admin/favicon.ico"> <link href="/Public/admin/css/bootstrap.min.css?v=3.3.6" rel="stylesheet">
+    <link href="/Public/admin/css/font-awesome.css?v=4.4.0" rel="stylesheet">
+    <link href="/Public/admin/css/animate.css" rel="stylesheet">
+    <link href="/Public/admin/css/style.css?v=4.1.0" rel="stylesheet">
+</head>
+<!-- <style>
+    #loading{
+        /*height: 80px;*/
+        width: 100%;
+        position: absolute;
+        /*top: 40%;*/
+        margin-top: -35px;
+        text-align: center;
+    }
+</style>
+<div class="ibox-content" id="loading" style="background:none;z-index:-1">
+    <div class="spiner-example">
+        <div class="sk-spinner sk-spinner-three-bounce">
+            <div class="sk-bounce1"></div>
+            <div class="sk-bounce2"></div>
+            <div class="sk-bounce3"></div>
+        </div>
+    </div>
+</div> -->
+<body class="gray-bg">
+    <div class="wrapper wrapper-content">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="row">
+                    <!--<div class="col-sm-4">-->
+                        <div class="">
+                        <div class="row row-sm text-center">
+                            <div class="col-xs-6">
+                                <div class="panel padder-v item">
+                                    <div class="h1 text-info font-thin h1"><?php echo ($msg["today_user_num"]); ?></div>
+                                    <span class="text-muted text-xs">今日新增用户量</span>
+                                    <div class="h1 text-info font-thin h1"><?php echo ($msg["all_user_num"]); ?></div>
+                                    <span class="text-muted text-xs">总用户量</span>
+                                </div>
+                            </div>
+                            <div class="col-xs-6">
+                                <div class="panel padder-v item bg-info">
+                                    <div class="h1 text-fff font-thin h1"><?php if($msg['today_order_money'] != ''): echo ($msg["today_order_money"]); else: ?>0<?php endif; ?></div>
+                                    <span class="text-muted text-xs">今日商品成交金额</span>
+                                    <div class="h1 text-fff font-thin h1"><?php if($msg['all_order_money'] != ''): echo ($msg["all_order_money"]); else: ?>0<?php endif; ?></div>
+                                    <span class="text-muted text-xs">商品成交总金额</span>
+                                </div>
+                            </div>
+                            <div class="col-xs-6">
+                                <div class="panel padder-v item bg-primary">
+                                    <div class="h1 text-fff font-thin h1"><?php echo ($msg["today_apply_distribution"]); ?></div>
+                                    <span class="text-muted text-xs">今日分销商申请人数</span>
+                                    <div class="h1 text-fff font-thin h1"><?php echo ($msg["all_distribution"]); ?></div>
+                                    <span class="text-muted text-xs">已是分销商人数</span>
+                                </div>
+                            </div>
+                            <div class="col-xs-6">
+                                <div class="panel padder-v item">
+                                    <div class="font-thin h1"><?php echo ($msg["today_user_cert"]); ?></div>
+                                    <span class="text-muted text-xs">今日认证人数</span>
+                                    <div class="font-thin h1"><?php echo ($msg["all_user_cert"]); ?></div>
+                                    <span class="text-muted text-xs">已认证人数</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--<div class="col-sm-8">-->
+                        <!--<div class="ibox float-e-margins">-->
+                            <!--<div class="ibox-title" style="border-bottom:none;background:#fff;">-->
+                                <!--<h5>服务器状态</h5>-->
+                            <!--</div>-->
+                            <!--<div class="ibox-content" style="border-top:none;">-->
+                                <!--<div id="flot-line-chart-moving" style="height:217px;">-->
+                                <!--</div>-->
+                            <!--</div>-->
+                        <!--</div>-->
+                    <!--</div>-->
+                </div>
+                <!--<div class="row">-->
+                    <!--<div class="col-sm-5">-->
+                        <!--<div class="ibox float-e-margins">-->
+                        <!--<div class="" id="ibox-content">-->
+
+                            <!--<div id="vertical-timeline" class="vertical-container light-timeline">-->
+                                <!--<div class="vertical-timeline-block">-->
+                                    <!--<div class="vertical-timeline-icon navy-bg">-->
+                                        <!--<i class="fa fa-briefcase"></i>-->
+                                    <!--</div>-->
+
+                                    <!--<div class="vertical-timeline-content">-->
+                                        <!--<h2>会议</h2>-->
+                                        <!--<p>上一年的销售业绩发布会。总结产品营销和销售趋势及销售的现状。-->
+                                        <!--</p>-->
+                                        <!--<a href="#" class="btn btn-sm btn-primary"> 更多信息</a>-->
+                                        <!--<span class="vertical-date">-->
+                                    <!--今天 <br>-->
+                                    <!--<small>2月3日</small>-->
+                                <!--</span>-->
+                                    <!--</div>-->
+                                <!--</div>-->
+
+                                <!--<div class="vertical-timeline-block">-->
+                                    <!--<div class="vertical-timeline-icon blue-bg">-->
+                                        <!--<i class="fa fa-file-text"></i>-->
+                                    <!--</div>-->
+
+                                    <!--<div class="vertical-timeline-content">-->
+                                        <!--<h2>给张三发送文档</h2>-->
+                                        <!--<p>发送上年度《销售业绩报告》</p>-->
+                                        <!--<a href="#" class="btn btn-sm btn-success"> 下载文档 </a>-->
+                                        <!--<span class="vertical-date">-->
+                                    <!--今天 <br>-->
+                                    <!--<small>2月3日</small>-->
+                                <!--</span>-->
+                                    <!--</div>-->
+                                <!--</div>-->
+
+                                <!--<div class="vertical-timeline-block">-->
+                                    <!--<div class="vertical-timeline-icon lazur-bg">-->
+                                        <!--<i class="fa fa-coffee"></i>-->
+                                    <!--</div>-->
+
+                                    <!--<div class="vertical-timeline-content">-->
+                                        <!--<h2>喝咖啡休息</h2>-->
+                                        <!--<p>喝咖啡啦，啦啦啦~~</p>-->
+                                        <!--<a href="#" class="btn btn-sm btn-info">更多</a>-->
+                                        <!--<span class="vertical-date"> 昨天 <br><small>2月2日</small></span>-->
+                                    <!--</div>-->
+                                <!--</div>-->
+
+                                <!--<div class="vertical-timeline-block">-->
+                                    <!--<div class="vertical-timeline-icon yellow-bg">-->
+                                        <!--<i class="fa fa-phone"></i>-->
+                                    <!--</div>-->
+
+                                    <!--<div class="vertical-timeline-content">-->
+                                        <!--<h2>给李四打电话</h2>-->
+                                        <!--<p>给李四打电话分配本月工作任务</p>-->
+                                        <!--<span class="vertical-date">昨天 <br><small>2月2日</small></span>-->
+                                    <!--</div>-->
+                                <!--</div>-->
+
+                                <!--<div class="vertical-timeline-block">-->
+                                    <!--<div class="vertical-timeline-icon lazur-bg">-->
+                                        <!--<i class="fa fa-user-md"></i>-->
+                                    <!--</div>-->
+
+                                    <!--<div class="vertical-timeline-content">-->
+                                        <!--<h2>公司年会</h2>-->
+                                        <!--<p>发年终奖啦，啦啦啦~~</p>-->
+                                        <!--<span class="vertical-date">前天 <br><small>2月1日</small></span>-->
+                                    <!--</div>-->
+                                <!--</div>-->
+                            <!--</div>-->
+                        <!--</div>-->
+                        <!--</div>-->
+                    <!--</div>-->
+                    <!--<div class="col-sm-7">-->
+                        <!--<div class="ibox">-->
+                            <!--<div class="ibox-title">-->
+                                <!--<h5>所有项目</h5>-->
+                                <!--<div class="ibox-tools">-->
+                                    <!--<a href="projects.html" class="btn btn-primary btn-xs">创建新项目</a>-->
+                                <!--</div>-->
+                            <!--</div>-->
+                            <!--<div class="ibox-content">-->
+                                <!--<div class="row m-b-sm m-t-sm">-->
+                                    <!--<div class="col-md-1">-->
+                                        <!--<button type="button" id="loading-example-btn" class="btn btn-white btn-sm"><i class="fa fa-refresh"></i> 刷新</button>-->
+                                    <!--</div>-->
+                                    <!--<div class="col-md-11">-->
+                                        <!--<div class="input-group">-->
+                                            <!--<input type="text" placeholder="请输入项目名称" class="input-sm form-control"> <span class="input-group-btn">-->
+                                                <!--<button type="button" class="btn btn-sm btn-primary"> 搜索</button> </span>-->
+                                        <!--</div>-->
+                                    <!--</div>-->
+                                <!--</div>-->
+                                <!--<div class="project-list">-->
+                                    <!--<table class="table table-hover">-->
+                                        <!--<tbody>-->
+                                            <!--<tr>-->
+                                                <!--<td class="project-status">-->
+                                                    <!--<span class="label label-primary">进行中-->
+                                                <!--</span></td>-->
+                                                <!--<td class="project-title">-->
+                                                    <!--<a href="project_detail.html">LIKE－一款能够让用户快速获得认同感的兴趣社交应用</a>-->
+                                                    <!--<br>-->
+                                                    <!--<small>创建于 2014.08.15</small>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-completion">-->
+                                                        <!--<small>当前进度： 48%</small>-->
+                                                        <!--<div class="progress progress-mini">-->
+                                                            <!--<div style="width: 48%;" class="progress-bar"></div>-->
+                                                        <!--</div>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-people">-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a3.jpg"></a>-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a1.jpg"></a>-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a2.jpg"></a>-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a4.jpg"></a>-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a5.jpg"></a>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-actions">-->
+                                                    <!--<a href="projects.html#" class="btn btn-white btn-sm"><i class="fa fa-folder"></i> 查看 </a>-->
+                                                    <!--<a href="projects.html#" class="btn btn-white btn-sm"><i class="fa fa-pencil"></i> 编辑 </a>-->
+                                                <!--</td>-->
+                                            <!--</tr>-->
+                                            <!--<tr>-->
+                                                <!--<td class="project-status">-->
+                                                    <!--<span class="label label-primary">进行中-->
+                                                <!--</span></td>-->
+                                                <!--<td class="project-title">-->
+                                                    <!--<a href="project_detail.html">米莫说｜MiMO Show</a>-->
+                                                    <!--<br>-->
+                                                    <!--<small>创建于 2014.08.15</small>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-completion">-->
+                                                    <!--<small>当前进度： 28%</small>-->
+                                                    <!--<div class="progress progress-mini">-->
+                                                        <!--<div style="width: 28%;" class="progress-bar"></div>-->
+                                                    <!--</div>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-people">-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a7.jpg"></a>-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a6.jpg"></a>-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a3.jpg"></a>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-actions">-->
+                                                    <!--<a href="projects.html#" class="btn btn-white btn-sm"><i class="fa fa-folder"></i> 查看 </a>-->
+                                                    <!--<a href="projects.html#" class="btn btn-white btn-sm"><i class="fa fa-pencil"></i> 编辑 </a>-->
+                                                <!--</td>-->
+                                            <!--</tr>-->
+                                            <!--<tr>-->
+                                                <!--<td class="project-status">-->
+                                                    <!--<span class="label label-default">已取消-->
+                                                <!--</span></td>-->
+                                                <!--<td class="project-title">-->
+                                                    <!--<a href="project_detail.html">商家与购物用户的交互试衣应用</a>-->
+                                                    <!--<br>-->
+                                                    <!--<small>创建于 2014.08.15</small>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-completion">-->
+                                                    <!--<small>当前进度： 8%</small>-->
+                                                    <!--<div class="progress progress-mini">-->
+                                                        <!--<div style="width: 8%;" class="progress-bar"></div>-->
+                                                    <!--</div>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-people">-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a5.jpg"></a>-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a3.jpg"></a>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-actions">-->
+                                                    <!--<a href="projects.html#" class="btn btn-white btn-sm"><i class="fa fa-folder"></i> 查看 </a>-->
+                                                    <!--<a href="projects.html#" class="btn btn-white btn-sm"><i class="fa fa-pencil"></i> 编辑 </a>-->
+                                                <!--</td>-->
+                                            <!--</tr>-->
+                                            <!--<tr>-->
+                                                <!--<td class="project-status">-->
+                                                    <!--<span class="label label-primary">进行中-->
+                                                <!--</span></td>-->
+                                                <!--<td class="project-title">-->
+                                                    <!--<a href="project_detail.html">天狼-&#45;&#45;智能硬件项目</a>-->
+                                                    <!--<br>-->
+                                                    <!--<small>创建于 2014.08.15</small>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-completion">-->
+                                                    <!--<small>当前进度： 83%</small>-->
+                                                    <!--<div class="progress progress-mini">-->
+                                                        <!--<div style="width: 83%;" class="progress-bar"></div>-->
+                                                    <!--</div>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-people">-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a2.jpg"></a>-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a3.jpg"></a>-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a1.jpg"></a>-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a7.jpg"></a>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-actions">-->
+                                                    <!--<a href="projects.html#" class="btn btn-white btn-sm"><i class="fa fa-folder"></i> 查看 </a>-->
+                                                    <!--<a href="projects.html#" class="btn btn-white btn-sm"><i class="fa fa-pencil"></i> 编辑 </a>-->
+                                                <!--</td>-->
+                                            <!--</tr>-->
+                                            <!--<tr>-->
+                                                <!--<td class="project-status">-->
+                                                    <!--<span class="label label-primary">进行中-->
+                                                <!--</span></td>-->
+                                                <!--<td class="project-title">-->
+                                                    <!--<a href="project_detail.html">乐活未来</a>-->
+                                                    <!--<br>-->
+                                                    <!--<small>创建于 2014.08.15</small>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-completion">-->
+                                                    <!--<small>当前进度： 97%</small>-->
+                                                    <!--<div class="progress progress-mini">-->
+                                                        <!--<div style="width: 97%;" class="progress-bar"></div>-->
+                                                    <!--</div>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-people">-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a4.jpg"></a>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-actions">-->
+                                                    <!--<a href="projects.html#" class="btn btn-white btn-sm"><i class="fa fa-folder"></i> 查看 </a>-->
+                                                    <!--<a href="projects.html#" class="btn btn-white btn-sm"><i class="fa fa-pencil"></i> 编辑 </a>-->
+                                                <!--</td>-->
+                                            <!--</tr>-->
+                                            <!--<tr>-->
+                                                <!--<td class="project-status">-->
+                                                    <!--<span class="label label-primary">进行中-->
+                                                <!--</span></td>-->
+                                                <!--<td class="project-title">-->
+                                                    <!--<a href="project_detail.html">【私人医生项目】</a>-->
+                                                    <!--<br>-->
+                                                    <!--<small>创建于 2014.08.15</small>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-completion">-->
+                                                    <!--<small>当前进度： 48%</small>-->
+                                                    <!--<div class="progress progress-mini">-->
+                                                        <!--<div style="width: 48%;" class="progress-bar"></div>-->
+                                                    <!--</div>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-people">-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a1.jpg"></a>-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a2.jpg"></a>-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a4.jpg"></a>-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a5.jpg"></a>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-actions">-->
+                                                    <!--<a href="projects.html#" class="btn btn-white btn-sm"><i class="fa fa-folder"></i> 查看 </a>-->
+                                                    <!--<a href="projects.html#" class="btn btn-white btn-sm"><i class="fa fa-pencil"></i> 编辑 </a>-->
+                                                <!--</td>-->
+                                            <!--</tr>-->
+                                            <!--<tr>-->
+                                                <!--<td class="project-status">-->
+                                                    <!--<span class="label label-primary">进行中-->
+                                                <!--</span></td>-->
+                                                <!--<td class="project-title">-->
+                                                    <!--<a href="project_detail.html">快狗家居</a>-->
+                                                    <!--<br>-->
+                                                    <!--<small>创建于 2014.08.15</small>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-completion">-->
+                                                    <!--<small>当前进度： 28%</small>-->
+                                                    <!--<div class="progress progress-mini">-->
+                                                        <!--<div style="width: 28%;" class="progress-bar"></div>-->
+                                                    <!--</div>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-people">-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a7.jpg"></a>-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a6.jpg"></a>-->
+                                                    <!--<a href="projects.html"><img alt="image" class="img-circle" src="../img/a3.jpg"></a>-->
+                                                <!--</td>-->
+                                                <!--<td class="project-actions">-->
+                                                    <!--<a href="projects.html#" class="btn btn-white btn-sm"><i class="fa fa-folder"></i> 查看 </a>-->
+                                                    <!--<a href="projects.html#" class="btn btn-white btn-sm"><i class="fa fa-pencil"></i> 编辑 </a>-->
+                                                <!--</td>-->
+                                            <!--</tr>-->
+                                        <!--</tbody>-->
+                                    <!--</table>-->
+                                <!--</div>-->
+                            <!--</div>-->
+                        <!--</div>-->
+                    <!--</div>-->
+                <!--</div>-->
+            </div>
+        </div>
+    </div>
+    <!-- 全局js -->
+    <script src="/Public/admin/js/jquery.min.js?v=2.1.4"></script>
+    <script src="/Public/admin/js/bootstrap.min.js?v=3.3.6"></script>
+    <script src="/Public/admin/js/plugins/layer/layer.min.js"></script>
+    <!-- Flot -->
+    <!--<script src="js/plugins/flot/jquery.flot.js"></script>-->
+    <!--<script src="js/plugins/flot/jquery.flot.tooltip.min.js"></script>-->
+    <!--<script src="js/plugins/flot/jquery.flot.resize.js"></script>-->
+    <!--<script src="js/plugins/flot/jquery.flot.pie.js"></script>-->
+    <!-- 自定义js -->
+    <script src="/Public/admin/js/content.js"></script>
+    <!--flotdemo-->
+    <!--<script type="text/javascript">
+        $(function() {
+            var container = $("#flot-line-chart-moving");
+            var maximum = container.outerWidth() / 2 || 300;
+            var data = [];
+
+            function getRandomData() {
+                if (data.length) {
+                    data = data.slice(1);
+                }
+                while (data.length < maximum) {
+                    var previous = data.length ? data[data.length - 1] : 50;
+                    var y = previous + Math.random() * 10 - 5;
+                    data.push(y < 0 ? 0 : y > 100 ? 100 : y);
+                }
+                var res = [];
+                for (var i = 0; i < data.length; ++i) {
+                    res.push([i, data[i]])
+                }
+                return res;
+            }
+            series = [{
+                data: getRandomData(),
+                lines: {
+                    fill: true
+                }
+            }];
+            var plot = $.plot(container, series, {
+                grid: {
+
+                    color: "#999999",
+                    tickColor: "#f7f9fb",
+                    borderWidth:0,
+                    minBorderMargin: 20,
+                    labelMargin: 10,
+                    backgroundColor: {
+                        colors: ["#ffffff", "#ffffff"]
+                    },
+                    margin: {
+                        top: 8,
+                        bottom: 20,
+                        left: 20
+                    },
+                    markings: function(axes) {
+                        var markings = [];
+                        var xaxis = axes.xaxis;
+                        for (var x = Math.floor(xaxis.min); x < xaxis.max; x += xaxis.tickSize * 2) {
+                            markings.push({
+                                xaxis: {
+                                    from: x,
+                                    to: x + xaxis.tickSize
+                                },
+                                color: "#fff"
+                            });
+                        }
+                        return markings;
+                    }
+                },
+                colors: ["#4fc5ea"],
+                xaxis: {
+                    tickFormatter: function() {
+                        return "";
+                    }
+                },
+                yaxis: {
+                    min: 0,
+                    max: 110
+                },
+                legend: {
+                    show: true
+                }
+            });
+
+            // Update the random dataset at 25FPS for a smoothly-animating chart
+
+            setInterval(function updateRandom() {
+                series[0].data = getRandomData();
+                plot.setData(series);
+                plot.draw();
+            }, 40);
+        });
+
+    <!--</script>-->
+</body>
+
+</html>

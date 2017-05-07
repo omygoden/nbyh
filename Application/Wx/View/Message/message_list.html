@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="format-detection" content="email=no"/>
+    <title>商品详情</title>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/wx/css/common.css">
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/wx/css/goods_index.css">
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/wx/css/animate.css">
+</head>
+<body>
+<div class="wrapper">
+    <div class="content header-con">
+        <div class="goods-detail">
+            <img src="__PUBLIC__/wx/img/other/banner.png">
+            <div class=" flex header-detail">
+                <div class="left flex-auto title">
+                    <p class="con-title"><span class="text-1">标题标题标题标题标题标题标题标题标题标题标题标题标题</span></p>
+                    <p class="hint">副标题产品规格副标题产品规格副标题产品规格副标题产品规格副标题产品规格副标题</p>
+                    <p class="price">&yen;580</p>
+                </div>
+                <div class="right">
+                    <div class="button" id="shop">加入购物车</div>
+                    <div class="button pay">购买</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="content">
+        <div class="goods-detail">
+            <img src="__PUBLIC__/wx/img/other/banner.png">
+            <img src="__PUBLIC__/wx/img/other/banner.png">
+            <img src="__PUBLIC__/wx/img/other/banner.png">
+            <img src="__PUBLIC__/wx/img/other/banner.png">
+        </div>
+    </div>
+</div>
+<!--底部导航-->
+<!--<footer class="flex footer-button">-->
+<!--<span class="flex-auto shop" id="shop">加入购物车</span>-->
+<!--<a href="#" class="flex-auto buy">立即购买</a>-->
+<!--</footer>-->
+<div class="alert-choose" id="alert">
+    <div class="alert-main flex">
+        <div class="alert-top">
+            <div class="left">
+                <img src="__PUBLIC__/wx/img/other/banner.png">
+            </div>
+            <div class="right">
+                <p>商品名称</p>
+                <p class="goods-name">商品名称商品名称商品名称商品名称商品名称</p>
+                <p class="price-detail flex">
+                    <span class="flex-auto ">
+                        价格<strong class="price">&yen;99.00</strong>
+                    </span>
+                    <span>
+                        <i class="icon icon-reduce"></i>
+                        <strong id="number">2</strong>
+                        <i class="icon icon-add"></i>
+                    </span>
+                </p>
+            </div>
+        </div>
+        <div class="alert-content flex-auto">
+            规格：<br>
+            颜色
+            <div class="radio-choose">
+                <label><input class="radio-type" type="radio" name="radio_color" value="1" checked><span
+                        class="radio-name">白色</span></label>
+                <label><input class="radio-type" type="radio" name="radio_color" value="2"><span
+                        class="radio-name">红色</span></label>
+                <label><input class="radio-type" type="radio" name="radio_color" value="3"><span
+                        class="radio-name">绿色</span></label>
+                <label><input class="radio-type" type="radio" name="radio_color" value="4"><span
+                        class="radio-name">蓝色</span></label>
+            </div>
+            尺码
+            <div class="radio-choose">
+                <label><input class="radio-type" type="radio" name="radio_size" value="1" checked><span
+                        class="radio-name">X</span></label>
+                <label><input class="radio-type" type="radio" name="radio_size" value="2"><span
+                        class="radio-name">L</span></label>
+                <label><input class="radio-type" type="radio" name="radio_size" value="3"><span
+                        class="radio-name">XL</span></label>
+                <label><input class="radio-type" type="radio" name="radio_size" value="4"><span
+                        class="radio-name">XLL</span></label>
+            </div>
+            颜色
+            <div class="radio-choose">
+                <label><input class="radio-type" type="radio" name="radio_color" value="1" checked><span
+                        class="radio-name">白色</span></label>
+                <label><input class="radio-type" type="radio" name="radio_color" value="2"><span
+                        class="radio-name">红色</span></label>
+                <label><input class="radio-type" type="radio" name="radio_color" value="3"><span
+                        class="radio-name">绿色</span></label>
+                <label><input class="radio-type" type="radio" name="radio_color" value="4"><span
+                        class="radio-name">蓝色</span></label>
+                <label><input class="radio-type" type="radio" name="radio_color" value="1" checked><span
+                        class="radio-name">白色</span></label>
+                <label><input class="radio-type" type="radio" name="radio_color" value="2"><span
+                        class="radio-name">红色</span></label>
+                <label><input class="radio-type" type="radio" name="radio_color" value="3"><span
+                        class="radio-name">绿色</span></label>
+            </div>
+            尺码
+            <div class="radio-choose">
+                <label><input class="radio-type" type="radio" name="radio_size" value="1" checked><span
+                        class="radio-name">X</span></label>
+                <label><input class="radio-type" type="radio" name="radio_size" value="2"><span
+                        class="radio-name">L</span></label>
+                <label><input class="radio-type" type="radio" name="radio_size" value="3"><span
+                        class="radio-name">XL</span></label>
+                <label><input class="radio-type" type="radio" name="radio_size" value="2"><span
+                        class="radio-name">L</span></label>
+                <label><input class="radio-type" type="radio" name="radio_size" value="3"><span
+                        class="radio-name">XL</span></label>
+                <label><input class="radio-type" type="radio" name="radio_size" value="4"><span
+                        class="radio-name">XLL</span></label>
+            </div>
+            颜色
+            <div class="radio-choose">
+                <label><input class="radio-type" type="radio" name="radio_color" value="1" checked><span
+                        class="radio-name">白色</span></label>
+                <label><input class="radio-type" type="radio" name="radio_color" value="2"><span
+                        class="radio-name">红色</span></label>
+                <label><input class="radio-type" type="radio" name="radio_color" value="3"><span
+                        class="radio-name">绿色</span></label>
+                <label><input class="radio-type" type="radio" name="radio_color" value="4"><span
+                        class="radio-name">蓝色</span></label>
+            </div>
+            尺码
+            <div class="radio-choose">
+                <label><input class="radio-type" type="radio" name="radio_size" value="1" checked><span
+                        class="radio-name">X</span></label>
+                <label><input class="radio-type" type="radio" name="radio_size" value="2"><span
+                        class="radio-name">L</span></label>
+                <label><input class="radio-type" type="radio" name="radio_size" value="3"><span
+                        class="radio-name">XL</span></label>
+                <label><input class="radio-type" type="radio" name="radio_size" value="4"><span
+                        class="radio-name">XLL</span></label>
+            </div>
+        </div>
+        <div class="alert-footer footer-button">
+            <div class="flex">
+                <span class="flex-auto shop">加入购物车</span>
+                <a href="goods_confirm.html" class="flex-auto buy">立即购买</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!---->
+<!--<script src="__PUBLIC__/wx/js/common.js"></script>-->
+<script src="__PUBLIC__/wx/js/zepto.js"></script>
+<script>
+    (function () {
+        var choose = document.getElementById('shop');
+        var alert = document.getElementById('alert');
+        choose.addEventListener('click', function () {
+            alert.setAttribute('class', 'alert-choose show animation');
+        });
+        alert.addEventListener('click', function () {
+            if (event.target.id == 'alert') {
+                alert.setAttribute('class', 'alert-choose animation animationed');
+                setTimeout(function () {
+                    alert.setAttribute('class', 'alert-choose');
+                }, 1000)
+            }
+        });
+        var number = document.getElementById("number");
+        $('.icon-reduce').on('click', function () {
+            number.innerText = number.innerText > 1 ? Number(number.innerText) - 1 : 1;
+        });
+        $('.icon-add').on('click', function () {
+            number.innerText = number.innerText ? Number(number.innerText) + 1 : 1;
+        });
+    })();
+
+</script>
+</body>
+</html>

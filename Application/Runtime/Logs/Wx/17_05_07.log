@@ -1,0 +1,48 @@
+[ 2017-05-07T12:29:53+08:00 ] 112.16.39.163 /Shop/shop
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000377s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-05-07T12:29:54+08:00 ] 112.16.39.163 /Shop/shop?code=031KZout0ZunLb185Uut0yHBut0KZou7&state=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-05-07T12:30:02+08:00 ] 101.226.51.230 /Shop/shop
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000363s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-05-07T12:30:03+08:00 ] 101.226.64.177 /Shop/shop
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+
+[ 2017-05-07T12:38:47+08:00 ] 120.92.32.240 /Shop/shop
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+NOTIC: [8] Undefined index: openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 68 行.
+NOTIC: [8] Undefined property: stdClass::$openid /alidata/www/nuoya/Application/Wx/Controller/CommenController.class.php 第 20 行.
+

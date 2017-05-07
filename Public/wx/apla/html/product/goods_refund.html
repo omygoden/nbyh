@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="format-detection" content="email=no"/>
+    <title>退款申请</title>
+    <link rel="stylesheet" type="text/css" href="../../css/common.css">
+    <link rel="stylesheet" type="text/css" href="../../css/goods_refund.css">
+</head>
+<body>
+<div class="main">
+    <ul class="wrapper main-goods-detail">
+        <li class="list flex">
+            <div class="left">商品名称</div>
+            <div class="right flex-auto"><span class="goods-name">X系列情侣项链X系列情侣项链X系列情侣项链X系列情侣项链</span></div>
+        </li>
+        <li class="list flex">
+            <div class="left">订单价格</div>
+            <div class="right price flex-auto">&yen;99</div>
+        </li>
+        <li class="list flex">
+            <div class="left">订单编号</div>
+            <div class="right flex-auto">123456789123456789</div>
+        </li>
+        <li class="list flex">
+            <div class="left">交易时间</div>
+            <div class="right flex-auto">2016-08-10 15:32:58</div>
+        </li>
+    </ul>
+</div>
+<div class="main">
+    <ul class=" main-border">
+        <li class="list flex">
+            <div class="left">退款金额</div>
+            <div class="right price flex-auto">&yen;99</div>
+        </li>
+        <li class="list flex">
+            <div class="left">手机号码</div>
+            <div class="right flex-auto"><input type="tel" placeholder="请填写手机号便于卖家联系您"></div>
+        </li>
+        <li class="list flex">
+            <div class="left">退款原因</div>
+            <div class="right flex-auto">
+                <textarea placeholder="最多可填写200字" id="refund-detail" maxlength="200"></textarea>
+                <p class="text-right font-num-box"><span class="font-num">1</span>/200</p>
+            </div>
+        </li>
+        <li class="list flex">
+            <div class="left">上传照片</div>
+            <div class="right flex-auto img-add">
+                <p class="hint">可上传5张图片</p>
+                <div class="img-list">
+                    <div id="img-list-con" class="img-list-con">
+                        <div class="img">
+                            <div class="img-box">
+                                <img src="../../imgs/other/banner.png">
+                            </div>
+                            <i class="icon icon-close"></i>
+                        </div>
+                        <div class="img">
+                            <div class="img-box">
+                                <img src="../../imgs/other/banner.png">
+                            </div>
+                            <i class="icon icon-close"></i>
+                        </div>
+                    </div>
+                    <div class="img-none">
+                        <input type="file" accept="image/*" id="upload"/>
+                    </div>
+                </div>
+            </div>
+        </li>
+    </ul>
+</div>
+<footer class="footer">
+    <a href="#" class="footer-btn">确认支付</a>
+</footer>
+<script src="../../js/zepto.js"></script>
+<script>
+    var upload = document.getElementById('upload');
+    upload.addEventListener('change', function () {
+        var file = upload.files[0];
+        window.URL = window.URL || window.webkitURL;
+        var url = window.URL.createObjectURL(file);
+        var img = new Image();
+        img.src = url;
+        img.onload = function (e) {
+            window.URL.revokeObjectURL(this.src); //销毁
+        };
+        var $li_1 = $('<div class="img"><div class="img-box"><img src="' + url + '"></div><i class="icon icon-close"></i></div>');
+        var $parent = $("#img-list-con");
+        $("#img-list-con").append($li_1);
+        $('.img-list .img i').on('click',function () {
+            var parent = document.getElementById('img-list-con');
+            var child = this.parentNode;
+            parent.removeChild(child);
+        });
+    }, false);
+    $('.img-list .img i').on('click',function () {
+        var parent = document.getElementById('img-list-con');
+        var child = this.parentNode;
+        parent.removeChild(child);
+    });
+    document.getElementById('refund-detail').addEventListener('input',function () {
+        var length=this.value.length;
+        if(length<=200){
+            $('.font-num').text(length);
+        }
+
+    })
+</script>
+</body>
+</html>

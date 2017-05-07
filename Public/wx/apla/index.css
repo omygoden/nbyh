@@ -1,0 +1,82 @@
+.m-swiper {
+    border-bottom: .2rem solid #f0f0f0;
+}
+.m-swiper img {
+    width: 100%;
+}
+.g-margin-top {
+    margin-top: 1.85rem;
+}
+/*--------------------轮播图进度条*/
+.swiper-container-horizontal > .swiper-pagination-bullets,
+.swiper-pagination-custom,
+.swiper-pagination-fraction {
+    bottom: 10px;
+    right: 0;
+}
+.swiper-slide {
+    line-height: 0;
+}
+.swiper-pagination {
+    position: absolute;
+    right: .2rem;
+    left: auto;
+    bottom: .1rem;
+    text-align: center;
+    font-size: .25rem;
+    background: #ff9600;
+    border: .15rem;
+    line-height: .36rem;
+    height: .36rem;
+    border-radius: .18rem;
+    color: #ffffff;
+    width: .8rem;
+    -webkit-transition: .3s;
+    -moz-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+    -webkit-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    z-index: 10;
+}
+.m-title {
+    text-align: center;
+    padding: .4rem;
+    margin: 0;
+    font-size: .4rem;
+    color: #ff9600;
+    border-bottom: 1px solid #f0f0f0;
+}
+.m-title:before {
+    content: "";
+    display: inline-block;
+    width: 1.1rem;
+    height: .3rem;
+    background: url("../imgs/index_07.jpg") no-repeat center;
+    background-size: 1.1rem;
+    margin-right: .3rem;
+}
+.m-title:after {
+    content: "";
+    display: inline-block;
+    width: 1.1rem;
+    height: .3rem;
+    margin-left: .3rem;
+    background: url("../imgs/index_07.jpg") no-repeat center;
+    background-size: 1.1rem;
+    transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    /* IE 9 */
+    -moz-transform: rotate(180deg);
+    /* Firefox */
+    -webkit-transform: rotate(180deg);
+    /* Safari 和 Chrome */
+    -o-transform: rotate(180deg);
+    /* Opera */
+}
+/*-----------*/
+.m-title,.m-list{
+    background: #ffffff;
+}

@@ -1,0 +1,74 @@
+html{
+    background: #f8f8f8;
+}
+.content{
+    padding: 1rem 3%;
+}
+.shop-box .top{
+    line-height: 0;
+}
+.shop-box .top img{
+    width: 100%;
+    height: 120px;
+}
+.shop-box{
+    background: #ffffff;
+    padding: 0.5rem;
+    box-sizing: border-box;
+    width: 48.5%;
+    margin-bottom: 1rem;
+}
+.shop-box .bottom{
+    line-height: 2rem;
+}
+.shop-box .left{
+    color: #c8b48f;
+}
+.shop-box .right{
+     display: inline-block;
+     width: 3rem;
+     height: 3rem;
+     float: right;
+     margin-top: -0.5rem;
+ }
+.shop-box .shop{
+    background: url("../imgs/icon.png") no-repeat 0 -9rem;
+    background-size: 15rem;
+}
+.shop-box .shopped{
+    background: url("../imgs/icon.png") no-repeat -3rem -9rem;
+    background-size: 15rem;
+}
+/*-------------------------------------------------12.5改*/
+.shop-box.item-2 .title::before,.shop-box.item-1 .title .left::before{
+    content: "";
+    display: inline-block;
+    width: 0.8rem;
+    height: 0.8rem;
+    background: #aaa;
+    margin-right: 0.2rem;
+}
+.shop-box.item-2 .title{
+     width: 100%;
+     overflow: hidden;
+     white-space: nowrap;
+     text-overflow: ellipsis;
+ }
+.shop-box.item-1 .title .left{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    line-height: 3rem;
+    height: 3rem;
+    color: #5e5d5d;
+}
+.item-1 .right{
+    float: none;
+    margin-top: 0;
+    line-height: 3rem;
+    height: 3rem;
+    color: #c8b48f;
+}
+.shop-2 img{
+    width: 50%;
+}

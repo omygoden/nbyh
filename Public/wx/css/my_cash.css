@@ -1,0 +1,175 @@
+﻿body {
+    background-color: #f0eff5;
+    font-size: 1.2rem;
+}
+
+.cash-head {
+    background-color: #f05c72;
+    color: white;
+}
+
+.cash-num {
+    text-align: center;
+    border-bottom: 1px solid #fabac8;
+}
+
+.cash-num > p {
+    padding: 2rem 0px;
+}
+
+.font-1 {
+    font-size: 4rem;
+
+}
+
+.cash-pay {
+    padding: 3%;
+
+    display: -ms-flexbox; /* TWEENER - IE 10 */
+    display: -webkit-flex; /* NEW - Chrome */
+    display: flex; /* NEW, Spec - Opera 12.1, Firefox 20+ */
+
+    -webkit-justify-content: space-between;
+    -moz-justify-content: space-between;
+    -ms-justify-content: space-between;
+    -o-justify-content: space-between;
+    justify-content: space-between;
+
+    -webkit-flex-direction: row;
+    -moz-flex-direction: row;
+    -ms-flex-direction: row;
+    -o-flex-direction: row;
+    flex-direction: row;
+
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    -ms-align-items: center;
+    -o-align-items: center;
+    align-items: center;
+}
+
+.icon-detial {
+    display: inline-block;
+    vertical-align: middle;
+    background: url('../imgs/icon.png') -8rem -5.7rem no-repeat;
+    background-size: 13rem;
+    width: 2rem;
+    height: 2rem;
+}
+
+.icon-gray {
+    background: url('../imgs/bottom.png') -10rem 0 no-repeat;
+    background-size: 12.5rem;
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.icon-gold {
+    background: url('../imgs/bottom.png') -10rem -2.5rem no-repeat;
+    background-size: 12.5rem;
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.icon {
+
+    display: -ms-flexbox; /* TWEENER - IE 10 */
+    display: -webkit-flex; /* NEW - Chrome */
+    display: flex; /* NEW, Spec - Opera 12.1, Firefox 20+ */
+
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    -o-flex-wrap: wrap;
+    flex-wrap: wrap;
+
+    -webkit-justify-content: space-between;
+    -moz-justify-content: space-between;
+    -ms-justify-content: space-between;
+    -o-justify-content: space-between;
+    justify-content: space-between;
+
+    margin-right: 3%;
+    font-size: 1rem;
+}
+
+.icon > div {
+    width: 41%;
+    background-color: white;
+    margin: 3% 0 0 3%;
+    border-radius: 2px;
+
+    display: -ms-flexbox; /* TWEENER - IE 10 */
+    display: -webkit-flex; /* NEW - Chrome */
+    display: flex; /* NEW, Spec - Opera 12.1, Firefox 20+ */
+
+    -webkit-flex-direction: column;
+    -moz-flex-direction: column;
+    -ms-flex-direction: column;
+    -o-flex-direction: column;
+    flex-direction: column;
+
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    -ms-align-items: center;
+    -o-align-items: center;
+    align-items: center;
+
+    line-height: 2rem;
+    padding: 3%;
+}
+
+.font-gray {
+    color: #999999;
+    font-size: 1.4rem;
+}
+
+.font-gold {
+    color: #f3b82c;
+    font-size: 1.4rem;
+    line-height: 1.4rem;
+}
+
+.action-1 {
+    display: -ms-flexbox; /* TWEENER - IE 10 */
+    display: -webkit-flex; /* NEW - Chrome */
+    display: flex; /* NEW, Spec - Opera 12.1, Firefox 20+ */
+
+    -webkit-flex-direction: row;
+    -moz-flex-direction: row;
+    -ms-flex-direction: row;
+    -o-flex-direction: row;
+    flex-direction: row;
+
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    -ms-align-items: center;
+    -o-align-items: center;
+    align-items: center;
+}
+
+.icon-red {
+    background: url('../imgs/icon.png') -10rem -10rem no-repeat;
+    background-size: 12.5rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.action {
+    background-color: white;
+    padding: 3%;
+    margin: 3%;
+}
+
+.action > div {
+    color: #e02919;
+    padding-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+.action > p {
+    font-size: 1rem;
+    line-height: 1.8rem;
+}

@@ -1,0 +1,119 @@
+.goods-detail .list {
+    line-height: 4rem;
+    padding: 0 3%;
+    border-bottom: 1px solid #d9d9d9;
+}
+
+.goods-detail {
+    margin-bottom: 0;
+}
+
+.price {
+    color: #c8b48f;
+}
+
+.icon-price {
+    display: inline-block;
+    width: 2.5rem;
+    height: 2.5rem;
+    background: url("../imgs/icon.png") no-repeat -10rem -2.5rem;
+    background-size: 12.5rem;
+    vertical-align: middle;
+    margin-top: -0.2rem;
+}
+
+.goods-detail .goods-name {
+    line-height: 5rem;
+}
+
+.goods-detail .goods-name .flex-auto {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+
+.hint {
+    background: #f7f7fa;
+    line-height: 2rem;
+    padding: 0 3%;
+    color: #999;
+}
+
+.pay-box {
+    padding: 0 3%;
+}
+
+.goods-detail .no-border {
+    border: 0;
+}
+
+/*----------------------------------*/
+.pay-box {
+    margin: 0 3%;
+    padding-bottom: 2rem;
+}
+
+.pay-box .pay-way {
+    display: block;
+    line-height: 4rem;
+    border-bottom: 1px solid #d9d9d9;
+    overflow: hidden;
+}
+
+.pay-box input {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    opacity: 0;
+}
+
+.pay-way:before {
+    content: "";
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    float: left;
+    vertical-align: middle;
+    margin-top: 0.5rem;
+}
+
+.pay-wx:before {
+    background: url("../imgs/icon.png") no-repeat -6rem -12rem;
+    background-size: 15rem;
+}
+
+.pay-zfb:before {
+    background: url("../imgs/icon.png") no-repeat -9rem -12rem;
+    background-size: 15rem;
+}
+
+.pay-way input + i {
+    display: inline-block;
+    vertical-align: middle;
+    height: 3rem;
+    width: 3rem;
+    float: right;
+    background: url("../imgs/icon.png") no-repeat 0 -12rem;
+    background-size: 15rem;
+    margin-top: 0.5rem;
+    line-height: 3rem;
+    font-style: normal;
+}
+
+.pay-way i span {
+    margin-left: -4rem;
+    vertical-align: middle;
+    line-height: 3rem;
+    display: none;
+}
+
+.pay-way input:checked + i span {
+    display: block;
+}
+
+.pay-way input:checked + i {
+    background: url("../imgs/icon.png") no-repeat -3rem -12rem;
+    background-size: 15rem;
+}

@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="format-detection" content="email=no"/>
+    <title>会员中心</title>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/wx/apla/css/common.css">
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/wx/apla/css/user.css">
+
+    <script type="text/javascript" src="__PUBLIC__/wx/Static/js/jquery.min.js"></script>
+    <script type="text/javascript" src="__PUBLIC__/wx/Static/js/wemall.js?222"></script>
+    <script type="text/javascript" src="__PUBLIC__/wx/Static/js/alert.js"></script>
+    <script type="text/javascript" src="__PUBLIC__/wx/Static/js/area.js"></script>
+</head>
+<script language="javascript">
+    function callpay()
+    {
+
+        WeixinJSBridge.invoke('editAddress',{
+            "appId" : "<?php echo $obj['appId'];?>",
+            "scope" : "jsapi_address",
+            "signType" : "sha1",
+            "addrSign" : "<?php echo $signature;?>",
+            "timeStamp" : "<?php echo $timestamp;?>",
+            "nonceStr" : "<?php echo $noncestr;?>",
+        },function(res){
+            if(res.err_msg == 'edit_address:ok')
+            {
+
+
+
+            }
+
+        });
+    }
+</script>
+<body class="index-tab">
+<div class="content">
+    <header class="user-header main">
+        <a class="wrapper" href="javascript:void(0);">
+            <div class="left">
+                <div class="user-img">
+                    <img src="<{$user.headimg}>" style="width:100%">
+                </div>
+            </div>
+            <div class="right ">
+                <h2><{$user.nickname}><if condition="$user['is_star'] eq '1'">（公星）</if></h2>
+                <p>会员ID：<{$user.memberid}></p>
+                <if condition="$recommend_nickname neq ''">
+                <p>推荐人：<{$recommend_nickname}></p>
+                </if>
+            </div>
+        </a>
+    </header>
+    <!--该版本暂不开放订单和购买功能-->
+    <!--<div class="order main">-->
+        <!--<p class="flex title">-->
+            <!--<span class="flex-auto">我的订单</span>-->
+            <!--<a href="__MODULE__/Orders/my_orders/status/3" class="icon-more">查看全部订单</a>-->
+        <!--</p>-->
+        <!--<ul class="order-box-wrapper flex">-->
+            <!--<li class="flex-auto" style="position:relative"><a class="order-box-1" href="__MODULE__/Orders/my_orders/status/0">待付款</a><span style=" top: 3px;right:30%; color:#FFF; background-color:#F00; border-radius:50%; width:16px;  height:16px; text-align:center;font-size: 10px;position: absolute"><{$user.nopay}></span></li>-->
+            <!--<li class="flex-auto" style="position:relative"><a class="order-box-2" href="__MODULE__/Orders/my_orders/status/1">待发货</a><span style=" top: 3px;right:30%; color:#FFF; background-color:#F00; border-radius:50%; width:16px;  height:16px; text-align:center;font-size: 10px;position: absolute"><{$user.nodeliver}></span></li>-->
+            <!--<li class="flex-auto" style="position:relative"><a class="order-box-3" href="__MODULE__/Orders/my_orders/status/2">待收货</a><span style=" top: 3px;right:30%; color:#FFF; background-color:#F00; border-radius:50%; width:16px;  height:16px; text-align:center;font-size: 10px;position: absolute"><{$user.noaccept}></span></li>-->
+            <!--<li class="flex-auto" style="position:relative"><a class="order-box-4" href="__MODULE__/Orders/my_orders/status/4">售后中</a><span style=" top: 3px;right:30%; color:#FFF; background-color:#F00; border-radius:50%; width:16px;  height:16px; text-align:center;font-size: 10px;position: absolute"><{$user.service}></span></li>-->
+        <!--</ul>-->
+    <!--</div>-->
+    <div class="other main flex">
+        <a href="__MODULE__/Myinfo/my_income" class="flex-auto"><span >
+            积分总收入<br><strong><{$user.all}></strong>
+        </span></a>
+        <a href="__MODULE__/Myinfo/score_record" class="flex-auto"><span >
+            我的积分<br><strong><{$user.score}></strong>
+        </span></a>
+    </div>
+    <div class="main detail-list">
+        <ul>
+            <li class="detail-list-li detail-list-1">
+                <a class="flex " href="javascript:void(0)">
+                    <span class="flex-auto">直推会员</span>
+                    <span class="num" style="margin-right:1rem"><{$user.num}></span>
+                </a>
+            </li>
+            <li class="detail-list-li detail-list-1">
+                <a class="flex icon-more" href="__MODULE__/Myinfo/my_team">
+                    <span class="flex-auto">我的团队</span>
+                    <!--<span class="num">{$zxiaji}</span>-->
+                </a>
+            </li>
+            <li class="detail-list-li detail-list-2">
+                <switch name="user.is_distribution">
+                    <case value="1">
+                        <a class="flex icon-more" href="javascript:void(0)">
+                            <span class="flex-auto">申请分销商</span>
+                            <span class="num">已是分销商</span>
+                        </a>
+                    </case>
+                    <case value="2">
+                        <a class="icon-more" href="__MODULE__/Myinfo/apply_distribution" >
+                            <span>申请分销商</span>
+                        </a>
+                    </case>
+                    <case value="3">
+                        <a class="flex icon-more" href="javascript:void(0)">
+                            <span class="flex-auto">申请分销商</span>
+                            <span class="num">待审核...</span>
+                        </a>
+                    </case>
+                    <case value="4">
+                        <a class="flex icon-more" href="__MODULE__/Myinfo/apply_distribution">
+                            <span class="flex-auto">申请分销商</span>
+                            <span class="num">已被驳回</span>
+                        </a>
+                    </case>
+                </switch>
+            </li>
+            <li class="detail-list-li detail-list-6">
+                <a class="icon-more" href="__MODULE__/Myinfo/my_qrcode">
+                    <span>我的二维码</span>
+                </a>
+            </li>
+
+            <li class="detail-list-li detail-list-4">
+                <switch name="user.is_cert">
+                    <case value="1">
+                        <a class="flex icon-more" href="javascript:void(0)">
+                            <span class="flex-auto">我的认证</span>
+                            <span class="num">已认证</span>
+                        </a>
+                    </case>
+                    <case value="2">
+                        <a class="icon-more" href="__MODULE__/Myinfo/my_cert" >
+                            <span>我的认证</span>
+                        </a>
+                    </case>
+                    <case value="3">
+                        <a class="flex icon-more" href="javascript:void(0)">
+                            <span class="flex-auto">我的认证</span>
+                            <span class="num">待审核...</span></a>
+                    </case>
+                    <case value="4">
+                        <a class="flex icon-more" href="__MODULE__/Myinfo/my_cert">
+                            <span class="flex-auto">我的认证</span>
+                            <span class="num">已被驳回</span>
+                        </a>
+                    </case>
+                </switch>
+
+            </li>
+
+            <!--<li class="detail-list-li detail-list-6">-->
+                <!--<a class="icon-more" href="__MODULE__/Myinfo/shopping_record">-->
+                    <!--<span>购买记录</span>-->
+                <!--</a>-->
+            <!--</li>-->
+            <li class="detail-list-li detail-list-6">
+                <a class="icon-more" href="__MODULE__/Myinfo/my_income">
+                    <span>我的收益</span>
+                </a>
+            </li>
+            <li class="detail-list-li detail-list-3">
+                <a class="icon-more" href="__MODULE__/Myinfo/apply_exchange">
+                    <span>申请兑换</span>
+                </a>
+            </li>
+            <li class="detail-list-li detail-list-5">
+                <a class="icon-more"  href="__MODULE__/Myinfo/address_list">
+                    <span>收货地址管理</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+<!--底部-->
+<include file="Wx@Public:footer" />
+<!---->
+
+</body>
+</html>

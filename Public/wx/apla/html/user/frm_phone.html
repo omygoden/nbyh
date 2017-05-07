@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport"
+              content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+        <meta name="format-detection" content="telephone=no"/>
+        <meta name="format-detection" content="email=no"/>
+        <title>Title</title>
+        <link rel="stylesheet" type="text/css" href="../../css/frm_register.css"/>
+    </head>
+    <body>
+        <ul>
+            <li>
+                <input type="tel" id="tel" placeholder="请输入手机号码" oninput="judge()"/>
+            </li>
+            <li>
+                <input type="code" id="code" placeholder="请输入验证码"  oninput="judge()"/>
+                <span id="sendVerify" status="1" onclick="getVerify()">发送验证码</span>
+            </li>
+        </ul>
+        <div class="button">
+            <button disabled onclick="register()" id="button">
+                确认
+            </button>
+        </div>
+    </body>
+    <script type="text/javascript" src="../../script/api.js"></script>
+    <script type="text/javascript" src="../../script/common.js"></script>
+    <script type="text/javascript" src="../../script/frm_phone.js"></script>
+</html>
